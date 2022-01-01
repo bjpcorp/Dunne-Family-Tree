@@ -112,8 +112,11 @@ C_change_time_0 = [
 "26 May 2019 4:05:30 PM",
 "1 January 2022 6:40:48 PM",
 "1 January 2022 6:45:18 PM",
+"1 January 2022 10:22:45 PM",
 "30 December 2021 2:17:53 PM",
 "1 January 2022 6:15:59 PM",
-"30 December 2021 1:24:45 PM"
+"30 December 2021 1:24:45 PM",
+"1 January 2022 10:15:43 PM",
+"1 January 2022 9:49:53 PM"
 ]
 Dwr.ScriptLoaded('dwr_db_C_change_time_0.js');

@@ -110,7 +110,7 @@ I_attr_0 = [
 [
 {
 "cita": [
-112
+113
 ],
 "note": "",
 "type": "Occupation",
@@ -165,7 +165,26 @@ I_attr_0 = [
 "value": "Labourer"
 }
 ],
-[],
+[
+{
+"cita": [],
+"note": "",
+"type": "Occupation",
+"value": "Farm Labourer"
+},
+{
+"cita": [],
+"note": "",
+"type": "Eye Colour",
+"value": "Hazel"
+},
+{
+"cita": [],
+"note": "",
+"type": "Hair Colour",
+"value": "Auburn"
+}
+],
 [],
 [],
 [],
@@ -232,7 +251,7 @@ I_attr_0 = [
 [
 {
 "cita": [
-112
+113
 ],
 "note": "",
 "type": "Occupation",
@@ -242,7 +261,7 @@ I_attr_0 = [
 [
 {
 "cita": [
-112
+113
 ],
 "note": "",
 "type": "Occupation",

@@ -112,8 +112,11 @@ C_text_0 = [
 "",
 "<p>\n<b>\nDate: \n</b>\n13 October 1894\n</p><p>\n<b>\nPage: \n</b>\n1846353 Birth Record: John Dunne\n</p>",
 "<p>\n<b>\nDate: \n</b>\n16 July 1889\n</p><p>\n<b>\nPage: \n</b>\n1918222 Birth Record: Patrick Dunne\n</p>",
+"<p>\n<b>\nDate: \n</b>\n11 October 1887\n</p><p>\n<b>\nPage: \n</b>\n1942889 Birth James Dunne 1887\n</p>",
 "<p>\n<b>\nPage: \n</b>\n4596992 Death Richard Dunne\n</p>",
 "<p>\n<b>\nDate: \n</b>\n19 January 1889\n</p><p>\n<b>\nPage: \n</b>\n5962602 Married Richard Dunne - Mary McEvoy\n</p>",
-"<p>\n<b>\nDate: \n</b>\n18 April 1882\n</p><p>\n<b>\nPage: \n</b>\n9992873 Birth Thomas Henderson 1882\n</p>"
+"<p>\n<b>\nDate: \n</b>\n18 April 1882\n</p><p>\n<b>\nPage: \n</b>\n9992873 Birth Thomas Henderson 1882\n</p>",
+"<p>\n<b>\nPage: \n</b>\np135 James Dunne Militery Records\n</p>",
+"<p>\n<b>\nPage: \n</b>\np137 Patrick & Richard Dunne Militery Records\n</p>"
 ]
 Dwr.ScriptLoaded('dwr_db_C_text_0.js');

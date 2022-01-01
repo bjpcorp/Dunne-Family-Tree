@@ -7,14 +7,14 @@ DWR_VERSION_500 = true;
 TITLE = "Dunne / Phelan Family Tree";
 SPLIT = 5000;
 DB_SIZES = {
-    "C": 114,
+    "C": 117,
     "F": 101,
     "I": 316,
     "M": 0,
     "N": 68,
     "P": 56,
     "R": 0,
-    "S": 2
+    "S": 3
 };NB_GENERATIONS_MAX = 10;
 PAGES_FILE = ["index.html", "", "tree_svg.html"];
 PAGES_TITLE = ["Home", "Indexes", "Tree"];
