@@ -7,19 +7,19 @@ DWR_VERSION_500 = true;
 TITLE = "Dunne Family Tree";
 SPLIT = 5000;
 DB_SIZES = {
-    "C": 38,
-    "F": 47,
-    "I": 122,
+    "C": 113,
+    "F": 101,
+    "I": 316,
     "M": 0,
-    "N": 14,
-    "P": 12,
+    "N": 68,
+    "P": 56,
     "R": 0,
     "S": 2
 };NB_GENERATIONS_MAX = 10;
 PAGES_FILE = ["index.html", "", "tree_svg.html"];
 PAGES_TITLE = ["Home", "Indexes", "Tree"];
-PAGES_FILE_INDEX = ["surnames.html", "persons.html", "sources.html", "places.html", "address.html"];
-PAGES_TITLE_INDEX = ["Surnames", "Individuals", "Sources", "Places", "Addresses"];
+PAGES_FILE_INDEX = ["surnames.html", "persons.html", "families.html", "sources.html", "places.html", "address.html"];
+PAGES_TITLE_INDEX = ["Surnames", "Individuals", "Families", "Sources", "Places", "Addresses"];
 SVG_TREE_TYPES_NAMES = ["Ascending tree", "Descending tree", "Descending tree with spouses", "Ascending and descending tree", "Ascending and descending tree with spouses"];
 SVG_TREE_SHAPES_NAMES = ["Vertical (↓)", "Vertical (↑)", "Horizontal (→)", "Horizontal (←)", "Full Circle", "Half Circle", "Quadrant"];
 SVG_TREE_DISTRIB_ASC_NAMES = ["Size proportional to number of ancestors", "Homogeneous parents distribution"];
@@ -76,8 +76,8 @@ INDEX_FAMILIES_TYPE=true;
 INDEX_SOURCES_TYPE=true;
 INDEX_PLACES_TYPE=true;
 INDEX_SHOW_DATES=true;
-INDEX_SHOW_PARTNER=false;
-INDEX_SHOW_PARENTS=false;
+INDEX_SHOW_PARTNER=true;
+INDEX_SHOW_PARENTS=true;
 INDEX_SHOW_PATH=false;
 INDEX_SHOW_BKREF_TYPE=false;
 INDEX_DEFAULT_SIZE = 0;
