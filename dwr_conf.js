@@ -7,12 +7,12 @@ DWR_VERSION_500 = true;
 TITLE = "Dunne Family Tree";
 SPLIT = 5000;
 DB_SIZES = {
-    "C": 76,
-    "F": 48,
-    "I": 164,
+    "C": 38,
+    "F": 47,
+    "I": 122,
     "M": 0,
-    "N": 39,
-    "P": 15,
+    "N": 14,
+    "P": 12,
     "R": 0,
     "S": 2
 };NB_GENERATIONS_MAX = 10;
@@ -94,9 +94,9 @@ INC_ADDRESSES=true;
 MAP_PLACE=false;
 MAP_FAMILY=false;
 MAP_SERVICE="Google";
-SOURCE_AUTHOR_IN_TITLE=false;
+SOURCE_AUTHOR_IN_TITLE=true;
 TABBED_PANELS=true;
-INC_CHANGE_TIME=false;
+INC_CHANGE_TIME=true;
 HIDE_GID=true;
 INC_PAGECONF = true;
 __ = {

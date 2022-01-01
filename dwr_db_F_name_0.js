@@ -44,7 +44,6 @@ F_name_0 = [
 "Family of Barrie John Phelan and Stacey Jayne Allden",
 "Family of David Joseph Phelan and Natalie Marie Bradshaw",
 "Family of John Joseph Phelan and Margaret Ann Dunne II",
-"Family of John Joseph Phelan and Alice Lee Wong",
 "Family of Sean Quinn and Maureen Dunne II",
 "Family of Richard Saunders and Ann Dunne",
 "Family of David Shanahan and Yvonne Palmer",

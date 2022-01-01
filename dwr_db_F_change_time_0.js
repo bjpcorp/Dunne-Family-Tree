@@ -44,7 +44,6 @@ F_change_time_0 = [
 "13 November 2014 7:36:52 PM",
 "31 May 2019 10:34:58 PM",
 "26 May 2019 8:46:35 PM",
-"30 May 2019 4:36:23 PM",
 "14 May 2017 1:21:06 PM",
 "16 November 2014 6:38:30 PM",
 "14 November 2014 3:07:06 PM",

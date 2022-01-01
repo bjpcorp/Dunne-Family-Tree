@@ -2,13 +2,10 @@
 
 P_type_0 = [
 "Neighbourhood",
-"Neighbourhood",
 "Town",
-"Barony",
 "Barony",
 "Building",
 "Country",
-"Town",
 "County",
 "County",
 "Province",

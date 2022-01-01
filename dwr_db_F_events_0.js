@@ -27,7 +27,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 12,
+"place": 9,
 "text": "",
 "type": "Marriage"
 }
@@ -51,7 +51,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 12,
+"place": 9,
 "text": "",
 "type": "Marriage"
 }
@@ -71,7 +71,6 @@ F_events_0 = [
 "type": "Marriage"
 }
 ],
-[],
 [],
 [],
 [],

@@ -5,13 +5,6 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Ballyspellan"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
 "name": "Dunmore"
 }
 ],
@@ -33,13 +26,6 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Galmoy"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
 "name": "House 2"
 }
 ],
@@ -48,13 +34,6 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Ireland"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"name": "Johnstown"
 }
 ],
 [

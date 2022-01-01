@@ -1,14 +1,11 @@
 // This file is generated
 
 P_letter_0 = [
-"B",
 "D",
 "D",
 "F",
-"G",
 "H",
 "I",
-"J",
 "K",
 "L",
 "L",

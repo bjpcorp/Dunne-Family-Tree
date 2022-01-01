@@ -7,114 +7,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Rose",
-"given": "Rose",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-""
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Stacey Jayne Allden",
-"given": "Stacey Jayne",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Allden"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Nicolas Ballard",
-"given": "Nicolas",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Ballard"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Michael Bolger",
-"given": "Michael",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Bolger"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Leo Bradley",
-"given": "Leo",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Bradley"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Natalie Marie Bradshaw",
-"given": "Natalie Marie",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Bradshaw"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Fionn Byrne",
 "given": "Fionn",
 "nick": "",
@@ -140,60 +32,6 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Byrne"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Owen Byrne",
-"given": "Owen",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Byrne"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Pat Comerford",
-"given": "Pat",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Comerford"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Connelly",
-"given": "",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Connelly"
 ],
 "title": "",
 "type": "Birth Name"
@@ -277,42 +115,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Nicholas Day",
-"given": "Nicholas",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Day"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Alain Dellenbach",
-"given": "Alain",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Dellenbach"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Christina Dellenbach",
 "given": "Christina",
 "nick": "",
@@ -356,24 +158,6 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Dellenbach"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Matt Dermody",
-"given": "Matt",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Dermody"
 ],
 "title": "",
 "type": "Birth Name"
@@ -486,24 +270,6 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Annie Dunne",
-"given": "Annie",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Dunne"
-],
-"title": "",
-"type": "Married Name"
 }
 ],
 [
@@ -819,24 +585,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Eva Marie Dunne",
-"given": "Eva Marie",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Dunne"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Francis Dunne",
 "given": "Francis",
 "nick": "",
@@ -1045,24 +793,6 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Kay Dunne",
-"given": "Kay",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Dunne"
-],
-"title": "",
-"type": "Married Name"
 }
 ],
 [
@@ -1900,24 +1630,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "John Fanning",
-"given": "John",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Fanning"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Theresa Fanning",
 "given": "Theresa",
 "nick": "",
@@ -1928,78 +1640,6 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Frances Fennelly",
-"given": "Frances",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Fennelly"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Robert Grier",
-"given": "Robert",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Grier"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Margaret Henderson",
-"given": "Margaret",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Henderson"
-],
-"title": "",
-"type": "Married Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Sandra Hogan",
-"given": "Sandra",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Hogan"
-],
-"title": "",
-"type": "Married Name"
 }
 ],
 [
@@ -2062,24 +1702,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Martin Humphrey",
-"given": "Martin",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Humphrey"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Michael Humphrey",
 "given": "Michael",
 "nick": "",
@@ -2116,42 +1738,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Patrick Joyce",
-"given": "Patrick",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Joyce"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Michael Kavanagh",
-"given": "Michael",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Kavanagh"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Sylvia Marie Kavanagh",
 "given": "Sylvia Marie",
 "nick": "",
@@ -2159,96 +1745,6 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Kavanagh"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Angela Knott",
-"given": "Angela",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Knott"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Peter Lockey",
-"given": "Peter",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Lockey"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "May Loong",
-"given": "May",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Loong"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Ma'ayan Marian",
-"given": "Ma'ayan",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Marian"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Erin Marsh",
-"given": "Erin",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Marsh"
 ],
 "title": "",
 "type": "Birth Name"
@@ -2278,80 +1774,8 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Mary McEvoy",
-"given": "Mary",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"McEvoy"
-],
-"title": "",
-"type": "Married Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Regina McGinley",
-"given": "Regina",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"McGinley"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Marisa McGrath",
-"given": "Marisa",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"McGrath"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Conan O'Brien",
 "given": "Conan",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"O'Brien"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "David O'Brien",
-"given": "David",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -2477,24 +1901,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Jimmy Palmer",
-"given": "Jimmy",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Palmer"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Mary Palmer",
 "given": "Mary",
 "nick": "",
@@ -2603,24 +2009,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Anastasia (Maud) Phelan",
-"given": "Anastasia (Maud)",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Phelan"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Aoife Rae Phelan",
 "given": "Aoife Rae",
 "nick": "",
@@ -2657,44 +2045,8 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Catherine Phelan",
-"given": "Catherine",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Phelan"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "David Joseph Phelan",
 "given": "David Joseph",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Phelan"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "John Joseph Phelan",
-"given": "John Joseph",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -2837,78 +2189,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Sean Quinn",
-"given": "Sean",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Quinn"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Natasha Ryan",
-"given": "Natasha",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Ryan"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Richard Saunders",
-"given": "Richard",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Saunders"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "David Shanahan",
-"given": "David",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Shanahan"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Sophie Shanahan",
 "given": "Sophie",
 "nick": "",
@@ -2919,42 +2199,6 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Anthony Tynan",
-"given": "Anthony",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Tynan"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Catherine Walsh",
-"given": "Catherine",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Walsh"
-],
-"title": "",
-"type": "Married Name"
 }
 ]
 ]

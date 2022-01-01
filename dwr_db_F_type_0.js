@@ -44,7 +44,6 @@ F_type_0 = [
 "Unmarried",
 "Married",
 "Married",
-"Unknown",
 "Married",
 "Married",
 "Married",
