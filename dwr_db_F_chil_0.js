@@ -434,15 +434,6 @@ F_chil_0 = [
 [
 {
 "cita": [],
-"index": 147,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
 "index": 81,
 "note": "",
 "to_father": "Birth",
@@ -465,6 +456,15 @@ F_chil_0 = [
 {
 "cita": [],
 "index": 130,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 147,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -620,7 +620,7 @@ F_chil_0 = [
 },
 {
 "cita": [],
-"index": 102,
+"index": 101,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -697,7 +697,7 @@ F_chil_0 = [
 },
 {
 "cita": [],
-"index": 103,
+"index": 102,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -731,7 +731,7 @@ F_chil_0 = [
 [
 {
 "cita": [],
-"index": 104,
+"index": 103,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -786,7 +786,7 @@ F_chil_0 = [
 },
 {
 "cita": [],
-"index": 106,
+"index": 105,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -1219,7 +1219,7 @@ F_chil_0 = [
 },
 {
 "cita": [],
-"index": 105,
+"index": 104,
 "note": "",
 "to_father": "None",
 "to_mother": "Birth"

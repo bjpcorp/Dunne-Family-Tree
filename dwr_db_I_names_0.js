@@ -1827,24 +1827,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Francis Dunne",
-"given": "Francis",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Dunne"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Geraldine Dunne",
 "given": "Geraldine",
 "nick": "",
@@ -1901,6 +1883,24 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Isacc Dunne",
 "given": "Isacc",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Dunne"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "James Dunne",
+"given": "James",
 "nick": "",
 "note": "",
 "suffix": "",

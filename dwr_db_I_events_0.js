@@ -1337,7 +1337,6 @@ I_events_0 = [
 "type": "Death"
 }
 ],
-[],
 [
 {
 "cita": [
@@ -1350,7 +1349,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-102
+101
 ],
 "place": -1,
 "text": "",
@@ -1367,7 +1366,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-102
+101
 ],
 "place": -1,
 "text": "",
@@ -1387,7 +1386,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-106
+105
 ],
 "place": 46,
 "text": "",
@@ -1404,13 +1403,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-106
+105
 ],
 "place": -1,
 "text": "",
 "type": "Death"
 }
 ],
+[],
 [
 {
 "cita": [
@@ -1953,7 +1953,7 @@ I_events_0 = [
 "cita": [],
 "date": "28 October 1886",
 "date_sdn": 2410208,
-"descr": "On son Patrick&#8217;s birth record",
+"descr": "Richard Dunne, son Patrick&#8217;s birth record",
 "gid": "E0428",
 "media": [],
 "part_family": [],
@@ -1985,7 +1985,7 @@ I_events_0 = [
 ],
 "date": "31 January 1903",
 "date_sdn": 2416146,
-"descr": "Richard died aged 42",
+"descr": "Richard Dunne died aged 42",
 "gid": "E0144",
 "media": [],
 "part_family": [],
@@ -2739,7 +2739,7 @@ I_events_0 = [
 [
 {
 "cita": [
-112
+113
 ],
 "date": "20 November 1881",
 "date_sdn": 2408405,

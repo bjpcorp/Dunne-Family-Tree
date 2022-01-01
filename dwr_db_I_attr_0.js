@@ -107,6 +107,16 @@ I_attr_0 = [
 [],
 [],
 [],
+[
+{
+"cita": [
+112
+],
+"note": "",
+"type": "Occupation",
+"value": "Labourer"
+}
+],
 [],
 [],
 [],
@@ -147,6 +157,14 @@ I_attr_0 = [
 [],
 [],
 [],
+[
+{
+"cita": [],
+"note": "",
+"type": "Occupation",
+"value": "Labourer"
+}
+],
 [],
 [],
 [],
@@ -211,10 +229,26 @@ I_attr_0 = [
 [],
 [],
 [],
-[],
-[],
-[],
-[],
+[
+{
+"cita": [
+112
+],
+"note": "",
+"type": "Occupation",
+"value": "Servant"
+}
+],
+[
+{
+"cita": [
+112
+],
+"note": "",
+"type": "Occupation",
+"value": "Labourer"
+}
+],
 [],
 [],
 [],
