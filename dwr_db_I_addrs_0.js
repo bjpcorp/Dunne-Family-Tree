@@ -189,7 +189,7 @@ I_addrs_0 = [
 "date": "2 April 1911",
 "date_sdn": 2419129,
 "location": [
-"House 2 Odagh,",
+"House 2 Odagh",
 "Threecastles",
 "",
 "",

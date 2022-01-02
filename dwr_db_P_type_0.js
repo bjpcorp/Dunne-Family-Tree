@@ -30,6 +30,7 @@ P_type_0 = [
 "Building",
 "Building",
 "Building",
+"Building",
 "Country",
 "Neighbourhood",
 "Town",

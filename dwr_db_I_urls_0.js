@@ -32,12 +32,12 @@ I_urls_0 = [
 [],
 [
 {
-"descr": "1901 Census Tubbrid Upper (Clomantagh, Kilkenny)",
-"type": "Unknown",
+"descr": "1901 Census: Edmond Campion Age 39",
+"type": "Web Home",
 "uri": "http://www.census.nationalarchives.ie/pages/1901/Kilkenny/Clomantagh/Tubbrid_Upper/1455874/"
 },
 {
-"descr": "1911 Census",
+"descr": "1911 Census: Edmond Campion Age 48",
 "type": "Web Home",
 "uri": "http://www.census.nationalarchives.ie/pages/1911/Kilkenny/Clamantagh/Tubbrid_Upper/532445/"
 }
@@ -241,7 +241,18 @@ I_urls_0 = [
 [],
 [],
 [],
-[],
+[
+{
+"descr": "https://civilrecords.irishgenealogy.ie/churchrecords/images/birth_returns/births_1889/02472/1918222.pdf",
+"type": "Web Home",
+"uri": "http://Birth Record: Patrick Dunne 1889"
+},
+{
+"descr": "1901 Census: Patrick Dunne Age 12",
+"type": "Web Home",
+"uri": "http://www.census.nationalarchives.ie/pages/1901/Kilkenny/Odagh/Threecastles/1448419/"
+}
+],
 [],
 [],
 [],
@@ -356,9 +367,9 @@ I_urls_0 = [
 ],
 [
 {
-"descr": "Patrick McEvoy Father of Mary McEvoy",
+"descr": "Deceased: Patrick McEvoy Father of Mary McEvoy",
 "type": "Web Home",
-"uri": "http://"
+"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/marriage_returns/marriages_1886/10852/5962602.pdf"
 }
 ],
 [],
