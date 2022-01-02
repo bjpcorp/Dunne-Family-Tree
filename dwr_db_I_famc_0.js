@@ -5,15 +5,6 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 49,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
 "index": 0,
 "note": "",
 "to_father": "Birth",
@@ -697,15 +688,7 @@ I_famc_0 = [
 "to_mother": "Birth"
 }
 ],
-[
-{
-"cita": [],
-"index": 39,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -1171,6 +1154,15 @@ I_famc_0 = [
 {
 "cita": [],
 "index": 38,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 49,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"

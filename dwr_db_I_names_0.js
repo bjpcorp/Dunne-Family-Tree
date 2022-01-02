@@ -25,24 +25,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Sof\u00edadh",
-"given": "Sof\u00edadh",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-""
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Pauline Mary Ahearne",
 "given": "Pauline Mary",
 "nick": "",
@@ -2856,6 +2838,24 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Shannon Dunne",
 "given": "Shannon",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Dunne"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Sof\u00edadh Dunne",
+"given": "Sof\u00edadh",
 "nick": "",
 "note": "",
 "suffix": "",

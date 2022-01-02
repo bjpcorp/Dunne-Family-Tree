@@ -2,7 +2,6 @@
 
 I_short_name_0 = [
 "Rose",
-"Sof\u00edadh",
 "Pauline Mary Ahearne",
 "Seamus Ahearne I",
 "Seamus Ahearne II",
@@ -160,6 +159,7 @@ I_short_name_0 = [
 "R\u00faair\u00ed Dunne",
 "Sean Dunne",
 "Shannon Dunne",
+"Sof\u00edadh Dunne",
 "Solomon Dunne",
 "Stacey Dunne",
 "Theresa Dunne",
