@@ -142,7 +142,25 @@ I_addrs_0 = [
 [],
 [],
 [],
-[],
+[
+{
+"cita": [],
+"date": "31 March 1901",
+"date_sdn": 2415475,
+"location": [
+"House 2 Odagh",
+"Threecastles",
+"",
+"",
+"Kilkenny",
+"",
+"",
+"Ireland",
+""
+],
+"note": ""
+}
+],
 [],
 [
 {
@@ -151,6 +169,27 @@ I_addrs_0 = [
 "date_sdn": 0,
 "location": [
 "House 2 Odagh",
+"Threecastles",
+"",
+"",
+"Kilkenny",
+"",
+"",
+"Ireland",
+""
+],
+"note": ""
+}
+],
+[],
+[],
+[
+{
+"cita": [],
+"date": "2 April 1911",
+"date_sdn": 2419129,
+"location": [
+"House 2 Odagh,",
 "Threecastles",
 "",
 "",
@@ -184,10 +223,25 @@ I_addrs_0 = [
 [],
 [],
 [],
-[],
-[],
-[],
-[],
+[
+{
+"cita": [],
+"date": "1901",
+"date_sdn": 2415386,
+"location": [
+"House 2 Odagh",
+"Threecastles",
+"",
+"",
+"Kilkenny",
+"",
+"",
+"Irleand",
+""
+],
+"note": ""
+}
+],
 [],
 [],
 [],
@@ -221,7 +275,25 @@ I_addrs_0 = [
 "note": ""
 }
 ],
-[],
+[
+{
+"cita": [],
+"date": "31 March 1901",
+"date_sdn": 2415475,
+"location": [
+"House 2 Odagh",
+"Threecastles",
+"",
+"",
+"Kilkenny",
+"",
+"",
+"Ireland",
+""
+],
+"note": ""
+}
+],
 [],
 [],
 [],
@@ -451,7 +523,25 @@ I_addrs_0 = [
 [],
 [],
 [],
-[],
+[
+{
+"cita": [],
+"date": "31 March 1901",
+"date_sdn": 2415475,
+"location": [
+"House 7 Threecastles",
+"Odagh",
+"",
+"",
+"Kilkenny",
+"",
+"",
+"Ireland",
+""
+],
+"note": ""
+}
+],
 [],
 [],
 [],

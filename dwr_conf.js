@@ -12,7 +12,7 @@ DB_SIZES = {
     "I": 316,
     "M": 0,
     "N": 68,
-    "P": 56,
+    "P": 57,
     "R": 0,
     "S": 3
 };NB_GENERATIONS_MAX = 10;

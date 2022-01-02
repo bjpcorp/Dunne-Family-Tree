@@ -81,7 +81,7 @@ I_events_0 = [
 "part_person": [
 17
 ],
-"place": 42,
+"place": 43,
 "text": "",
 "type": "Death"
 }
@@ -228,12 +228,29 @@ I_events_0 = [
 "part_person": [
 28
 ],
-"place": 25,
+"place": 26,
 "text": "",
 "type": "Residence"
 }
 ],
 [
+{
+"cita": [
+37
+],
+"date": "",
+"date_sdn": 0,
+"descr": "Estimated death date",
+"gid": "E0092",
+"media": [],
+"part_family": [],
+"part_person": [
+29
+],
+"place": -1,
+"text": "",
+"type": "Death"
+},
 {
 "cita": [],
 "date": "1862",
@@ -260,7 +277,7 @@ I_events_0 = [
 "part_person": [
 29
 ],
-"place": 50,
+"place": 51,
 "text": "",
 "type": "Residence"
 },
@@ -275,7 +292,7 @@ I_events_0 = [
 "part_person": [
 29
 ],
-"place": 49,
+"place": 50,
 "text": "",
 "type": "Residence"
 },
@@ -290,26 +307,9 @@ I_events_0 = [
 "part_person": [
 29
 ],
-"place": 22,
+"place": 23,
 "text": "",
 "type": "Residence"
-},
-{
-"cita": [
-37
-],
-"date": "",
-"date_sdn": 0,
-"descr": "Estimated death date",
-"gid": "E0092",
-"media": [],
-"part_family": [],
-"part_person": [
-29
-],
-"place": -1,
-"text": "",
-"type": "Death"
 }
 ],
 [
@@ -376,7 +376,7 @@ I_events_0 = [
 "part_person": [
 33
 ],
-"place": 49,
+"place": 50,
 "text": "",
 "type": "Birth"
 },
@@ -391,7 +391,7 @@ I_events_0 = [
 "part_person": [
 33
 ],
-"place": 50,
+"place": 51,
 "text": "",
 "type": "Residence"
 },
@@ -414,6 +414,21 @@ I_events_0 = [
 [
 {
 "cita": [],
+"date": "",
+"date_sdn": 0,
+"descr": "",
+"gid": "E0241",
+"media": [],
+"part_family": [],
+"part_person": [
+34
+],
+"place": 51,
+"text": "",
+"type": "Residence"
+},
+{
+"cita": [],
 "date": "1838",
 "date_sdn": 2392376,
 "descr": "",
@@ -426,21 +441,6 @@ I_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth"
-},
-{
-"cita": [],
-"date": "",
-"date_sdn": 0,
-"descr": "",
-"gid": "E0241",
-"media": [],
-"part_family": [],
-"part_person": [
-34
-],
-"place": 50,
-"text": "",
-"type": "Residence"
 },
 {
 "cita": [],
@@ -460,21 +460,6 @@ I_events_0 = [
 ],
 [
 {
-"cita": [],
-"date": "1908",
-"date_sdn": 2417942,
-"descr": "",
-"gid": "E0025",
-"media": [],
-"part_family": [],
-"part_person": [
-35
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-},
-{
 "cita": [
 70
 ],
@@ -490,24 +475,24 @@ I_events_0 = [
 "place": -1,
 "text": "",
 "type": "Death"
-}
-],
-[
+},
 {
 "cita": [],
-"date": "13 December 1896",
-"date_sdn": 2413907,
+"date": "1908",
+"date_sdn": 2417942,
 "descr": "",
-"gid": "E0225",
+"gid": "E0025",
 "media": [],
 "part_family": [],
 "part_person": [
-36
+35
 ],
-"place": 49,
+"place": -1,
 "text": "",
 "type": "Birth"
-},
+}
+],
+[
 {
 "cita": [],
 "date": "",
@@ -539,24 +524,24 @@ I_events_0 = [
 "place": -1,
 "text": "",
 "type": "Death"
-}
-],
-[
+},
 {
 "cita": [],
-"date": "1903",
-"date_sdn": 2416116,
+"date": "13 December 1896",
+"date_sdn": 2413907,
 "descr": "",
-"gid": "E0021",
+"gid": "E0225",
 "media": [],
 "part_family": [],
 "part_person": [
-37
+36
 ],
-"place": -1,
+"place": 50,
 "text": "",
 "type": "Birth"
-},
+}
+],
+[
 {
 "cita": [
 101
@@ -573,24 +558,24 @@ I_events_0 = [
 "place": -1,
 "text": "",
 "type": "Death"
-}
-],
-[
+},
 {
 "cita": [],
-"date": "1905",
-"date_sdn": 2416847,
+"date": "1903",
+"date_sdn": 2416116,
 "descr": "",
-"gid": "E0022",
+"gid": "E0021",
 "media": [],
 "part_family": [],
 "part_person": [
-38
+37
 ],
 "place": -1,
 "text": "",
 "type": "Birth"
-},
+}
+],
+[
 {
 "cita": [
 76
@@ -607,6 +592,21 @@ I_events_0 = [
 "place": -1,
 "text": "",
 "type": "Death"
+},
+{
+"cita": [],
+"date": "1905",
+"date_sdn": 2416847,
+"descr": "",
+"gid": "E0022",
+"media": [],
+"part_family": [],
+"part_person": [
+38
+],
+"place": -1,
+"text": "",
+"type": "Birth"
 }
 ],
 [
@@ -643,21 +643,6 @@ I_events_0 = [
 ],
 [
 {
-"cita": [],
-"date": "1906",
-"date_sdn": 2417212,
-"descr": "",
-"gid": "E0023",
-"media": [],
-"part_family": [],
-"part_person": [
-40
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-},
-{
 "cita": [
 91
 ],
@@ -673,6 +658,21 @@ I_events_0 = [
 "place": -1,
 "text": "",
 "type": "Death"
+},
+{
+"cita": [],
+"date": "1906",
+"date_sdn": 2417212,
+"descr": "",
+"gid": "E0023",
+"media": [],
+"part_family": [],
+"part_person": [
+40
+],
+"place": -1,
+"text": "",
+"type": "Birth"
 }
 ],
 [
@@ -687,7 +687,7 @@ I_events_0 = [
 "part_person": [
 41
 ],
-"place": 34,
+"place": 35,
 "text": "",
 "type": "Residence"
 },
@@ -702,27 +702,12 @@ I_events_0 = [
 "part_person": [
 41
 ],
-"place": 50,
+"place": 51,
 "text": "",
 "type": "Residence"
 }
 ],
 [
-{
-"cita": [],
-"date": "1846",
-"date_sdn": 2395298,
-"descr": "",
-"gid": "E0218",
-"media": [],
-"part_family": [],
-"part_person": [
-42
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-},
 {
 "cita": [
 68
@@ -739,6 +724,21 @@ I_events_0 = [
 "place": -1,
 "text": "",
 "type": "Death"
+},
+{
+"cita": [],
+"date": "1846",
+"date_sdn": 2395298,
+"descr": "",
+"gid": "E0218",
+"media": [],
+"part_family": [],
+"part_person": [
+42
+],
+"place": -1,
+"text": "",
+"type": "Birth"
 },
 {
 "cita": [],
@@ -793,6 +793,21 @@ I_events_0 = [
 [
 {
 "cita": [],
+"date": "",
+"date_sdn": 0,
+"descr": "",
+"gid": "E0231",
+"media": [],
+"part_family": [],
+"part_person": [
+45
+],
+"place": 51,
+"text": "",
+"type": "Residence"
+},
+{
+"cita": [],
 "date": "27 June 1867",
 "date_sdn": 2403145,
 "descr": "",
@@ -808,21 +823,6 @@ I_events_0 = [
 },
 {
 "cita": [],
-"date": "",
-"date_sdn": 0,
-"descr": "",
-"gid": "E0231",
-"media": [],
-"part_family": [],
-"part_person": [
-45
-],
-"place": 50,
-"text": "",
-"type": "Residence"
-},
-{
-"cita": [],
 "date": "20 January 1898",
 "date_sdn": 2414310,
 "descr": "",
@@ -832,7 +832,7 @@ I_events_0 = [
 "part_person": [
 45
 ],
-"place": 50,
+"place": 51,
 "text": "",
 "type": "Death"
 }
@@ -849,7 +849,7 @@ I_events_0 = [
 "part_person": [
 46
 ],
-"place": 34,
+"place": 35,
 "text": "",
 "type": "Residence"
 },
@@ -864,7 +864,7 @@ I_events_0 = [
 "part_person": [
 46
 ],
-"place": 50,
+"place": 51,
 "text": "",
 "type": "Residence"
 }
@@ -1268,21 +1268,6 @@ I_events_0 = [
 [],
 [
 {
-"cita": [],
-"date": "5 June 1981",
-"date_sdn": 2444761,
-"descr": "",
-"gid": "E0001",
-"media": [],
-"part_family": [],
-"part_person": [
-98
-],
-"place": 54,
-"text": "",
-"type": "Death"
-},
-{
 "cita": [
 42
 ],
@@ -1298,6 +1283,21 @@ I_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth"
+},
+{
+"cita": [],
+"date": "5 June 1981",
+"date_sdn": 2444761,
+"descr": "",
+"gid": "E0001",
+"media": [],
+"part_family": [],
+"part_person": [
+98
+],
+"place": 55,
+"text": "",
+"type": "Death"
 }
 ],
 [],
@@ -1388,9 +1388,24 @@ I_events_0 = [
 "part_person": [
 105
 ],
-"place": 46,
+"place": 47,
 "text": "",
 "type": "Birth"
+},
+{
+"cita": [],
+"date": "31 March 1901",
+"date_sdn": 2415475,
+"descr": "James Dunne Age 14",
+"gid": "E0005",
+"media": [],
+"part_family": [],
+"part_person": [
+105
+],
+"place": 22,
+"text": "",
+"type": "Census"
 },
 {
 "cita": [
@@ -1425,9 +1440,39 @@ I_events_0 = [
 "part_person": [
 107
 ],
-"place": 46,
+"place": 47,
 "text": "",
 "type": "Birth"
+},
+{
+"cita": [],
+"date": "31 March 1901",
+"date_sdn": 2415475,
+"descr": "John Dunne Age 7",
+"gid": "E0427",
+"media": [],
+"part_family": [],
+"part_person": [
+107
+],
+"place": 22,
+"text": "",
+"type": "Census"
+},
+{
+"cita": [],
+"date": "2 April 1911",
+"date_sdn": 2419129,
+"descr": "John Dunne Age 17",
+"gid": "E0006",
+"media": [],
+"part_family": [],
+"part_person": [
+107
+],
+"place": 22,
+"text": "",
+"type": "Census"
 },
 {
 "cita": [
@@ -1445,21 +1490,6 @@ I_events_0 = [
 "place": 13,
 "text": "",
 "type": "Death"
-},
-{
-"cita": [],
-"date": "31 March 1901",
-"date_sdn": 2415475,
-"descr": "",
-"gid": "E0427",
-"media": [],
-"part_family": [],
-"part_person": [
-107
-],
-"place": 21,
-"text": "",
-"type": "Census"
 }
 ],
 [],
@@ -1476,7 +1506,7 @@ I_events_0 = [
 "part_person": [
 110
 ],
-"place": 46,
+"place": 47,
 "text": "",
 "type": "Birth"
 },
@@ -1508,9 +1538,24 @@ I_events_0 = [
 "part_person": [
 111
 ],
-"place": 46,
+"place": 47,
 "text": "",
 "type": "Birth"
+},
+{
+"cita": [],
+"date": "2 April 1911",
+"date_sdn": 2419129,
+"descr": "Catherine (Kate) Dunne Age 10",
+"gid": "E0004",
+"media": [],
+"part_family": [],
+"part_person": [
+111
+],
+"place": 22,
+"text": "",
+"type": "Census"
 }
 ],
 [],
@@ -1597,21 +1642,6 @@ I_events_0 = [
 [],
 [
 {
-"cita": [],
-"date": "27 August 1891",
-"date_sdn": 2411972,
-"descr": "",
-"gid": "E0261",
-"media": [],
-"part_family": [],
-"part_person": [
-124
-],
-"place": 46,
-"text": "",
-"type": "Birth"
-},
-{
 "cita": [
 31
 ],
@@ -1627,10 +1657,40 @@ I_events_0 = [
 "place": -1,
 "text": "",
 "type": "Death"
+},
+{
+"cita": [],
+"date": "27 August 1891",
+"date_sdn": 2411972,
+"descr": "",
+"gid": "E0261",
+"media": [],
+"part_family": [],
+"part_person": [
+124
+],
+"place": 47,
+"text": "",
+"type": "Birth"
 }
 ],
 [],
 [
+{
+"cita": [],
+"date": "",
+"date_sdn": 0,
+"descr": "",
+"gid": "E0327",
+"media": [],
+"part_family": [],
+"part_person": [
+126
+],
+"place": 55,
+"text": "",
+"type": "Residence"
+},
 {
 "cita": [],
 "date": "1926",
@@ -1648,21 +1708,6 @@ I_events_0 = [
 },
 {
 "cita": [],
-"date": "",
-"date_sdn": 0,
-"descr": "",
-"gid": "E0327",
-"media": [],
-"part_family": [],
-"part_person": [
-126
-],
-"place": 54,
-"text": "",
-"type": "Residence"
-},
-{
-"cita": [],
 "date": "1986",
 "date_sdn": 2446432,
 "descr": "",
@@ -1672,7 +1717,7 @@ I_events_0 = [
 "part_person": [
 126
 ],
-"place": 54,
+"place": 55,
 "text": "",
 "type": "Death"
 }
@@ -1779,7 +1824,7 @@ I_events_0 = [
 "part_person": [
 132
 ],
-"place": 21,
+"place": 22,
 "text": "",
 "type": "Census"
 },
@@ -1794,7 +1839,7 @@ I_events_0 = [
 "part_person": [
 132
 ],
-"place": -1,
+"place": 22,
 "text": "",
 "type": "Census"
 },
@@ -1825,21 +1870,6 @@ I_events_0 = [
 [],
 [
 {
-"cita": [],
-"date": "27 March 1889",
-"date_sdn": 2411089,
-"descr": "",
-"gid": "E0260",
-"media": [],
-"part_family": [],
-"part_person": [
-140
-],
-"place": 46,
-"text": "",
-"type": "Birth"
-},
-{
 "cita": [
 100
 ],
@@ -1855,6 +1885,21 @@ I_events_0 = [
 "place": -1,
 "text": "",
 "type": "Death"
+},
+{
+"cita": [],
+"date": "27 March 1889",
+"date_sdn": 2411089,
+"descr": "",
+"gid": "E0260",
+"media": [],
+"part_family": [],
+"part_person": [
+140
+],
+"place": 47,
+"text": "",
+"type": "Birth"
 }
 ],
 [
@@ -1960,7 +2005,7 @@ I_events_0 = [
 "part_person": [
 147
 ],
-"place": 47,
+"place": 48,
 "text": "",
 "type": "Residence"
 },
@@ -1975,7 +2020,7 @@ I_events_0 = [
 "part_person": [
 147
 ],
-"place": 21,
+"place": 22,
 "text": "",
 "type": "Census"
 },
@@ -1992,7 +2037,7 @@ I_events_0 = [
 "part_person": [
 147
 ],
-"place": 47,
+"place": 48,
 "text": "",
 "type": "Death"
 }
@@ -2009,7 +2054,7 @@ I_events_0 = [
 "part_person": [
 148
 ],
-"place": 46,
+"place": 47,
 "text": "",
 "type": "Birth"
 },
@@ -2029,6 +2074,21 @@ I_events_0 = [
 "place": -1,
 "text": "",
 "type": "Death"
+},
+{
+"cita": [],
+"date": "31 March 1901",
+"date_sdn": 2415475,
+"descr": "Richard Dunne Age 5",
+"gid": "E0010",
+"media": [],
+"part_family": [],
+"part_person": [
+148
+],
+"place": -1,
+"text": "",
+"type": "Census"
 }
 ],
 [
@@ -2307,7 +2367,7 @@ I_events_0 = [
 "part_person": [
 168
 ],
-"place": 31,
+"place": 32,
 "text": "",
 "type": "Birth"
 }
@@ -2403,6 +2463,23 @@ I_events_0 = [
 "type": "Birth"
 },
 {
+"cita": [
+57
+],
+"date": "",
+"date_sdn": 0,
+"descr": "Estimated death date",
+"gid": "E0126",
+"media": [],
+"part_family": [],
+"part_person": [
+173
+],
+"place": -1,
+"text": "",
+"type": "Death"
+},
+{
 "cita": [],
 "date": "1881",
 "date_sdn": 2408082,
@@ -2431,23 +2508,6 @@ I_events_0 = [
 "place": 5,
 "text": "",
 "type": "Residence"
-},
-{
-"cita": [
-57
-],
-"date": "",
-"date_sdn": 0,
-"descr": "Estimated death date",
-"gid": "E0126",
-"media": [],
-"part_family": [],
-"part_person": [
-173
-],
-"place": -1,
-"text": "",
-"type": "Death"
 }
 ],
 [
@@ -2477,7 +2537,7 @@ I_events_0 = [
 "part_person": [
 174
 ],
-"place": 25,
+"place": 26,
 "text": "",
 "type": "Residence"
 },
@@ -2509,7 +2569,7 @@ I_events_0 = [
 "part_person": [
 175
 ],
-"place": 53,
+"place": 54,
 "text": "",
 "type": "Birth"
 }
@@ -2527,7 +2587,7 @@ I_events_0 = [
 "part_person": [
 177
 ],
-"place": 52,
+"place": 53,
 "text": "",
 "type": "Birth"
 }
@@ -2627,7 +2687,7 @@ I_events_0 = [
 "part_person": [
 180
 ],
-"place": 54,
+"place": 55,
 "text": "",
 "type": "Residence"
 },
@@ -2642,7 +2702,7 @@ I_events_0 = [
 "part_person": [
 180
 ],
-"place": 54,
+"place": 55,
 "text": "",
 "type": "Death"
 }
@@ -2739,6 +2799,23 @@ I_events_0 = [
 [
 {
 "cita": [
+43
+],
+"date": "",
+"date_sdn": 0,
+"descr": "Estimated death date",
+"gid": "E0105",
+"media": [],
+"part_family": [],
+"part_person": [
+184
+],
+"place": -1,
+"text": "",
+"type": "Death"
+},
+{
+"cita": [
 114
 ],
 "date": "20 November 1881",
@@ -2768,23 +2845,6 @@ I_events_0 = [
 "place": 5,
 "text": "",
 "type": "Residence"
-},
-{
-"cita": [
-43
-],
-"date": "",
-"date_sdn": 0,
-"descr": "Estimated death date",
-"gid": "E0105",
-"media": [],
-"part_family": [],
-"part_person": [
-184
-],
-"place": -1,
-"text": "",
-"type": "Death"
 }
 ],
 [
@@ -2827,21 +2887,6 @@ I_events_0 = [
 [
 {
 "cita": [],
-"date": "1856",
-"date_sdn": 2398950,
-"descr": "",
-"gid": "E0214",
-"media": [],
-"part_family": [],
-"part_person": [
-187
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [],
 "date": "1901 31st March",
 "date_sdn": 0,
 "descr": "Census - Margaret Walsh Age 45",
@@ -2851,7 +2896,7 @@ I_events_0 = [
 "part_person": [
 187
 ],
-"place": 26,
+"place": 27,
 "text": "",
 "type": "Census"
 },
@@ -2871,6 +2916,21 @@ I_events_0 = [
 "place": -1,
 "text": "",
 "type": "Death"
+},
+{
+"cita": [],
+"date": "1856",
+"date_sdn": 2398950,
+"descr": "",
+"gid": "E0214",
+"media": [],
+"part_family": [],
+"part_person": [
+187
+],
+"place": -1,
+"text": "",
+"type": "Birth"
 }
 ],
 [],
@@ -3125,6 +3185,23 @@ I_events_0 = [
 [],
 [
 {
+"cita": [
+71
+],
+"date": "",
+"date_sdn": 0,
+"descr": "Estimated death date",
+"gid": "E0154",
+"media": [],
+"part_family": [],
+"part_person": [
+212
+],
+"place": -1,
+"text": "",
+"type": "Death"
+},
+{
 "cita": [],
 "date": "1864",
 "date_sdn": 2401872,
@@ -3150,7 +3227,7 @@ I_events_0 = [
 "part_person": [
 212
 ],
-"place": 21,
+"place": 22,
 "text": "",
 "type": "Census"
 },
@@ -3165,44 +3242,12 @@ I_events_0 = [
 "part_person": [
 212
 ],
-"place": 21,
+"place": 22,
 "text": "",
 "type": "Census"
-},
-{
-"cita": [
-71
-],
-"date": "",
-"date_sdn": 0,
-"descr": "Estimated death date",
-"gid": "E0154",
-"media": [],
-"part_family": [],
-"part_person": [
-212
-],
-"place": -1,
-"text": "",
-"type": "Death"
 }
 ],
 [
-{
-"cita": [],
-"date": "3 August 1877",
-"date_sdn": 2406835,
-"descr": "",
-"gid": "E0398",
-"media": [],
-"part_family": [],
-"part_person": [
-213
-],
-"place": -1,
-"text": "",
-"type": "Death"
-},
 {
 "cita": [],
 "date": "1809",
@@ -3217,26 +3262,26 @@ I_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth"
+},
+{
+"cita": [],
+"date": "3 August 1877",
+"date_sdn": 2406835,
+"descr": "",
+"gid": "E0398",
+"media": [],
+"part_family": [],
+"part_person": [
+213
+],
+"place": -1,
+"text": "",
+"type": "Death"
 }
 ],
 [],
 [],
 [
-{
-"cita": [],
-"date": "1 November 1897",
-"date_sdn": 2414230,
-"descr": "",
-"gid": "E0320",
-"media": [],
-"part_family": [],
-"part_person": [
-216
-],
-"place": 41,
-"text": "",
-"type": "Birth"
-},
 {
 "cita": [],
 "date": "1897",
@@ -3248,9 +3293,24 @@ I_events_0 = [
 "part_person": [
 216
 ],
-"place": 41,
+"place": 42,
 "text": "",
 "type": "Residence"
+},
+{
+"cita": [],
+"date": "1 November 1897",
+"date_sdn": 2414230,
+"descr": "",
+"gid": "E0320",
+"media": [],
+"part_family": [],
+"part_person": [
+216
+],
+"place": 42,
+"text": "",
+"type": "Birth"
 },
 {
 "cita": [],
@@ -3263,7 +3323,7 @@ I_events_0 = [
 "part_person": [
 216
 ],
-"place": 23,
+"place": 24,
 "text": "",
 "type": "Residence"
 },
@@ -3278,7 +3338,7 @@ I_events_0 = [
 "part_person": [
 216
 ],
-"place": 27,
+"place": 28,
 "text": "",
 "type": "Residence"
 }
@@ -3325,7 +3385,7 @@ I_events_0 = [
 "part_person": [
 217
 ],
-"place": 41,
+"place": 42,
 "text": "",
 "type": "Residence"
 },
@@ -3340,7 +3400,7 @@ I_events_0 = [
 "part_person": [
 217
 ],
-"place": 23,
+"place": 24,
 "text": "",
 "type": "Residence"
 },
@@ -3355,7 +3415,7 @@ I_events_0 = [
 "part_person": [
 217
 ],
-"place": 27,
+"place": 28,
 "text": "",
 "type": "Residence"
 }
@@ -3576,7 +3636,7 @@ I_events_0 = [
 "part_person": [
 242
 ],
-"place": 43,
+"place": 44,
 "text": "",
 "type": "Residence"
 },
@@ -3591,7 +3651,7 @@ I_events_0 = [
 "part_person": [
 242
 ],
-"place": 20,
+"place": 21,
 "text": "",
 "type": "Residence"
 }
@@ -3629,7 +3689,7 @@ I_events_0 = [
 "part_person": [
 249
 ],
-"place": 20,
+"place": 21,
 "text": "",
 "type": "Residence"
 },
@@ -3644,7 +3704,7 @@ I_events_0 = [
 "part_person": [
 249
 ],
-"place": 20,
+"place": 21,
 "text": "",
 "type": "Residence"
 }
@@ -3677,7 +3737,7 @@ I_events_0 = [
 "part_person": [
 251
 ],
-"place": 20,
+"place": 21,
 "text": "",
 "type": "Residence"
 }
@@ -3694,7 +3754,7 @@ I_events_0 = [
 "part_person": [
 252
 ],
-"place": 43,
+"place": 44,
 "text": "",
 "type": "Residence"
 }
@@ -3755,21 +3815,6 @@ I_events_0 = [
 [
 {
 "cita": [],
-"date": "13 September 2019",
-"date_sdn": 2458740,
-"descr": "",
-"gid": "E0273",
-"media": [],
-"part_family": [],
-"part_person": [
-259
-],
-"place": -1,
-"text": "",
-"type": "Death"
-},
-{
-"cita": [],
 "date": "13 February 1965",
 "date_sdn": 2438805,
 "descr": "",
@@ -3782,6 +3827,21 @@ I_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth"
+},
+{
+"cita": [],
+"date": "13 September 2019",
+"date_sdn": 2458740,
+"descr": "",
+"gid": "E0273",
+"media": [],
+"part_family": [],
+"part_person": [
+259
+],
+"place": -1,
+"text": "",
+"type": "Death"
 }
 ],
 [],
@@ -3896,7 +3956,7 @@ I_events_0 = [
 "part_person": [
 282
 ],
-"place": 20,
+"place": 21,
 "text": "",
 "type": "Residence"
 },
@@ -3926,7 +3986,7 @@ I_events_0 = [
 "part_person": [
 282
 ],
-"place": 20,
+"place": 21,
 "text": "",
 "type": "Residence"
 }
@@ -3934,36 +3994,6 @@ I_events_0 = [
 [],
 [],
 [
-{
-"cita": [],
-"date": "1865",
-"date_sdn": 2402238,
-"descr": "",
-"gid": "E0020",
-"media": [],
-"part_family": [],
-"part_person": [
-285
-],
-"place": 51,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [],
-"date": "24 June 1901",
-"date_sdn": 2415560,
-"descr": "",
-"gid": "E0209",
-"media": [],
-"part_family": [],
-"part_person": [
-285
-],
-"place": -1,
-"text": "",
-"type": "Marriage"
-},
 {
 "cita": [
 108
@@ -3983,6 +4013,36 @@ I_events_0 = [
 },
 {
 "cita": [],
+"date": "1865",
+"date_sdn": 2402238,
+"descr": "",
+"gid": "E0020",
+"media": [],
+"part_family": [],
+"part_person": [
+285
+],
+"place": 52,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "24 June 1901",
+"date_sdn": 2415560,
+"descr": "",
+"gid": "E0209",
+"media": [],
+"part_family": [],
+"part_person": [
+285
+],
+"place": -1,
+"text": "",
+"type": "Marriage"
+},
+{
+"cita": [],
 "date": "2 April 1911",
 "date_sdn": 2419129,
 "descr": "",
@@ -3992,7 +4052,7 @@ I_events_0 = [
 "part_person": [
 285
 ],
-"place": 22,
+"place": 23,
 "text": "",
 "type": "Census"
 }
@@ -4012,7 +4072,7 @@ I_events_0 = [
 "part_person": [
 289
 ],
-"place": 32,
+"place": 33,
 "text": "",
 "type": "Residence"
 }
@@ -4070,7 +4130,7 @@ I_events_0 = [
 "part_person": [
 296
 ],
-"place": 32,
+"place": 33,
 "text": "",
 "type": "Birth"
 },
@@ -4085,7 +4145,7 @@ I_events_0 = [
 "part_person": [
 296
 ],
-"place": 32,
+"place": 33,
 "text": "",
 "type": "Residence"
 },
@@ -4117,7 +4177,7 @@ I_events_0 = [
 "part_person": [
 297
 ],
-"place": 32,
+"place": 33,
 "text": "",
 "type": "Birth"
 },
@@ -4147,7 +4207,7 @@ I_events_0 = [
 "part_person": [
 297
 ],
-"place": 32,
+"place": 33,
 "text": "",
 "type": "Residence"
 }
@@ -4194,7 +4254,7 @@ I_events_0 = [
 "part_person": [
 298
 ],
-"place": 24,
+"place": 25,
 "text": "",
 "type": "Residence"
 },
@@ -4209,7 +4269,7 @@ I_events_0 = [
 "part_person": [
 298
 ],
-"place": 32,
+"place": 33,
 "text": "",
 "type": "Residence"
 }
@@ -4227,7 +4287,7 @@ I_events_0 = [
 "part_person": [
 300
 ],
-"place": 29,
+"place": 30,
 "text": "",
 "type": "Residence"
 }
@@ -4276,7 +4336,7 @@ I_events_0 = [
 "part_person": [
 302
 ],
-"place": 29,
+"place": 30,
 "text": "",
 "type": "Birth"
 }
@@ -4319,13 +4379,13 @@ I_events_0 = [
 "date": "1901",
 "date_sdn": 2415386,
 "descr": "",
-"gid": "",
+"gid": "E0003",
 "media": [],
 "part_family": [],
 "part_person": [
 305
 ],
-"place": 23,
+"place": 24,
 "text": "",
 "type": "Residence"
 },
@@ -4340,7 +4400,7 @@ I_events_0 = [
 "part_person": [
 305
 ],
-"place": 27,
+"place": 28,
 "text": "",
 "type": "Residence"
 }
@@ -4374,9 +4434,39 @@ I_events_0 = [
 "part_person": [
 307
 ],
-"place": 46,
+"place": 47,
 "text": "",
 "type": "Birth"
+},
+{
+"cita": [],
+"date": "31 March 1901",
+"date_sdn": 2415475,
+"descr": "Catherine Walsh Age 6",
+"gid": "E0007",
+"media": [],
+"part_family": [],
+"part_person": [
+307
+],
+"place": 27,
+"text": "",
+"type": "Census"
+},
+{
+"cita": [],
+"date": "2 April 1911",
+"date_sdn": 2419129,
+"descr": "Catherine Walsh Age 16",
+"gid": "E0008",
+"media": [],
+"part_family": [],
+"part_person": [
+307
+],
+"place": 20,
+"text": "",
+"type": "Census"
 }
 ],
 [
@@ -4406,7 +4496,7 @@ I_events_0 = [
 "part_person": [
 308
 ],
-"place": 26,
+"place": 27,
 "text": "",
 "type": "Census"
 },
@@ -4421,7 +4511,7 @@ I_events_0 = [
 "part_person": [
 308
 ],
-"place": 47,
+"place": 48,
 "text": "",
 "type": "Death"
 }
@@ -4439,7 +4529,7 @@ I_events_0 = [
 "part_person": [
 310
 ],
-"place": 26,
+"place": 27,
 "text": "",
 "type": "Birth"
 }
