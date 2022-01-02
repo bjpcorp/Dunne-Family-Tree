@@ -66,7 +66,7 @@ GRAMPS_PREFERENCES['unknown-dead'] = "['#f3dbb6', '#35103b']";
 SVG_TREE_COLOR_SCHEME0 = ["#ffffff", "#ffffff"];
 SVG_TREE_COLOR_SCHEME1 = ["#ff3f00", "#ffaf0f", "#ffdf57", "#ffff6f", "#9fff9f", "#6fd7ff", "#4f97ff", "#e717ff", "#e71779", "#d2aa7c", "#bd9970"];
 SVG_TREE_COLOR_SCHEME2 = ["#e5bffc", "#bfbffc", "#bfdefc", "#b7dbc5", "#cef6d1"];
-FOOTER="<div class=\"grampsstylednote\">\n<i class=\"bi bi-facebook\" style=\"float:right;\">https://www.facebook.com/groups/222068107818897</i>\n</div>";
+FOOTER="<div class=\"grampsstylednote\">\n<a href=\"https://www.facebook.com/groups/222068107818897\" style=\"float:right;\">\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-facebook\" viewBox=\"0 0 16 16\">\n  <path d=\"M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z\"/>\n</svg>\n</a>\n</div>";
 HEADER="";
 BRAND_TITLE="";
 COPYRIGHT="<p class=\'copyright\'>&copy; 2022 Barrie Phelan</p>";
