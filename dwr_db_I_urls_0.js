@@ -247,9 +247,9 @@ I_urls_0 = [
 [],
 [
 {
-"descr": "https://civilrecords.irishgenealogy.ie/churchrecords/images/birth_returns/births_1889/02472/1918222.pdf",
+"descr": "Birth Record: Patrick Dunne 1889",
 "type": "Web Home",
-"uri": "http://Birth Record: Patrick Dunne 1889"
+"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/birth_returns/births_1889/02472/1918222.pdf"
 },
 {
 "descr": "1901 Census: Patrick Dunne Age 12",
