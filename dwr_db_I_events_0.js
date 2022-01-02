@@ -14,7 +14,6 @@ I_events_0 = [
 [],
 [],
 [],
-[],
 [
 {
 "cita": [],
@@ -25,7 +24,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-14
+13
 ],
 "place": -1,
 "text": "",
@@ -45,7 +44,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-16
+15
 ],
 "place": -1,
 "text": "",
@@ -62,7 +61,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-16
+15
 ],
 "place": -1,
 "text": "",
@@ -79,7 +78,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-17
+16
 ],
 "place": 44,
 "text": "",
@@ -98,7 +97,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-18
+17
 ],
 "place": -1,
 "text": "",
@@ -115,7 +114,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-18
+17
 ],
 "place": -1,
 "text": "",
@@ -138,7 +137,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-23
+22
 ],
 "place": -1,
 "text": "",
@@ -155,7 +154,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-23
+22
 ],
 "place": -1,
 "text": "",
@@ -174,7 +173,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-24
+23
 ],
 "place": -1,
 "text": "",
@@ -191,7 +190,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-24
+23
 ],
 "place": -1,
 "text": "",
@@ -211,7 +210,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-28
+27
 ],
 "place": -1,
 "text": "",
@@ -226,7 +225,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-28
+27
 ],
 "place": 27,
 "text": "",
@@ -243,7 +242,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-29
+28
 ],
 "place": -1,
 "text": "",
@@ -258,7 +257,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-29
+28
 ],
 "place": 52,
 "text": "",
@@ -273,7 +272,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-29
+28
 ],
 "place": 51,
 "text": "",
@@ -288,7 +287,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-29
+28
 ],
 "place": 20,
 "text": "",
@@ -303,7 +302,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-29
+28
 ],
 "place": 24,
 "text": "",
@@ -320,7 +319,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-29
+28
 ],
 "place": -1,
 "text": "",
@@ -339,7 +338,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-30
+29
 ],
 "place": -1,
 "text": "",
@@ -354,7 +353,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-30
+29
 ],
 "place": -1,
 "text": "",
@@ -371,7 +370,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-31
+30
 ],
 "place": -1,
 "text": "",
@@ -389,7 +388,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-33
+32
 ],
 "place": 51,
 "text": "",
@@ -404,7 +403,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-33
+32
 ],
 "place": 52,
 "text": "",
@@ -419,7 +418,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-33
+32
 ],
 "place": 6,
 "text": "",
@@ -429,21 +428,6 @@ I_events_0 = [
 [
 {
 "cita": [],
-"date": "",
-"date_sdn": 0,
-"descr": "",
-"gid": "E0241",
-"media": [],
-"part_family": [],
-"part_person": [
-34
-],
-"place": 52,
-"text": "",
-"type": "Residence"
-},
-{
-"cita": [],
 "date": "1838",
 "date_sdn": 2392376,
 "descr": "",
@@ -451,11 +435,26 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-34
+33
 ],
 "place": -1,
 "text": "",
 "type": "Birth"
+},
+{
+"cita": [],
+"date": "",
+"date_sdn": 0,
+"descr": "",
+"gid": "E0241",
+"media": [],
+"part_family": [],
+"part_person": [
+33
+],
+"place": 52,
+"text": "",
+"type": "Residence"
 },
 {
 "cita": [],
@@ -466,7 +465,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-34
+33
 ],
 "place": -1,
 "text": "",
@@ -485,7 +484,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-35
+34
 ],
 "place": -1,
 "text": "",
@@ -500,7 +499,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-35
+34
 ],
 "place": -1,
 "text": "",
@@ -510,6 +509,21 @@ I_events_0 = [
 [
 {
 "cita": [],
+"date": "13 December 1896",
+"date_sdn": 2413907,
+"descr": "",
+"gid": "E0225",
+"media": [],
+"part_family": [],
+"part_person": [
+35
+],
+"place": 51,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
 "date": "",
 "date_sdn": 0,
 "descr": "",
@@ -517,7 +531,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-36
+35
 ],
 "place": 6,
 "text": "",
@@ -534,26 +548,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-36
+35
 ],
 "place": -1,
 "text": "",
 "type": "Death"
-},
-{
-"cita": [],
-"date": "13 December 1896",
-"date_sdn": 2413907,
-"descr": "",
-"gid": "E0225",
-"media": [],
-"part_family": [],
-"part_person": [
-36
-],
-"place": 51,
-"text": "",
-"type": "Birth"
 }
 ],
 [
@@ -568,7 +567,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-37
+36
 ],
 "place": -1,
 "text": "",
@@ -583,7 +582,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-37
+36
 ],
 "place": -1,
 "text": "",
@@ -602,7 +601,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-38
+37
 ],
 "place": -1,
 "text": "",
@@ -617,7 +616,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-38
+37
 ],
 "place": -1,
 "text": "",
@@ -634,7 +633,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-39
+38
 ],
 "place": -1,
 "text": "",
@@ -649,7 +648,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-39
+38
 ],
 "place": -1,
 "text": "",
@@ -668,7 +667,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-40
+39
 ],
 "place": -1,
 "text": "",
@@ -683,7 +682,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-40
+39
 ],
 "place": -1,
 "text": "",
@@ -700,7 +699,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-41
+40
 ],
 "place": 36,
 "text": "",
@@ -715,7 +714,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-41
+40
 ],
 "place": 52,
 "text": "",
@@ -734,7 +733,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-42
+41
 ],
 "place": -1,
 "text": "",
@@ -749,7 +748,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-42
+41
 ],
 "place": -1,
 "text": "",
@@ -764,7 +763,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-42
+41
 ],
 "place": 10,
 "text": "",
@@ -781,7 +780,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-43
+42
 ],
 "place": 10,
 "text": "",
@@ -798,7 +797,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-44
+43
 ],
 "place": 10,
 "text": "",
@@ -815,7 +814,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-45
+44
 ],
 "place": 52,
 "text": "",
@@ -830,7 +829,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-45
+44
 ],
 "place": 2,
 "text": "",
@@ -845,7 +844,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-45
+44
 ],
 "place": 52,
 "text": "",
@@ -862,7 +861,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-46
+45
 ],
 "place": 36,
 "text": "",
@@ -877,7 +876,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-46
+45
 ],
 "place": 52,
 "text": "",
@@ -896,7 +895,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-47
+46
 ],
 "place": -1,
 "text": "",
@@ -913,7 +912,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-47
+46
 ],
 "place": -1,
 "text": "",
@@ -932,7 +931,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-48
+47
 ],
 "place": -1,
 "text": "",
@@ -949,7 +948,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-48
+47
 ],
 "place": -1,
 "text": "",
@@ -986,7 +985,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-67
+66
 ],
 "place": -1,
 "text": "",
@@ -1003,7 +1002,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-67
+66
 ],
 "place": -1,
 "text": "",
@@ -1025,7 +1024,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-71
+70
 ],
 "place": -1,
 "text": "",
@@ -1042,7 +1041,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-71
+70
 ],
 "place": -1,
 "text": "",
@@ -1061,7 +1060,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-72
+71
 ],
 "place": -1,
 "text": "",
@@ -1078,7 +1077,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-72
+71
 ],
 "place": -1,
 "text": "",
@@ -1106,7 +1105,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-82
+81
 ],
 "place": -1,
 "text": "",
@@ -1123,7 +1122,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-82
+81
 ],
 "place": -1,
 "text": "",
@@ -1141,7 +1140,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-84
+83
 ],
 "place": -1,
 "text": "",
@@ -1156,7 +1155,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-84
+83
 ],
 "place": -1,
 "text": "",
@@ -1180,7 +1179,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-90
+89
 ],
 "place": -1,
 "text": "",
@@ -1197,7 +1196,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-90
+89
 ],
 "place": -1,
 "text": "",
@@ -1217,7 +1216,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-92
+91
 ],
 "place": -1,
 "text": "",
@@ -1234,7 +1233,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-92
+91
 ],
 "place": -1,
 "text": "",
@@ -1258,7 +1257,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-98
+97
 ],
 "place": -1,
 "text": "",
@@ -1275,7 +1274,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-98
+97
 ],
 "place": -1,
 "text": "",
@@ -1296,7 +1295,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-101
+100
 ],
 "place": -1,
 "text": "",
@@ -1311,7 +1310,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-101
+100
 ],
 "place": 56,
 "text": "",
@@ -1331,7 +1330,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-103
+102
 ],
 "place": -1,
 "text": "",
@@ -1348,7 +1347,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-103
+102
 ],
 "place": -1,
 "text": "",
@@ -1367,7 +1366,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-104
+103
 ],
 "place": -1,
 "text": "",
@@ -1384,7 +1383,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-104
+103
 ],
 "place": -1,
 "text": "",
@@ -1404,7 +1403,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-108
+107
 ],
 "place": 48,
 "text": "",
@@ -1419,7 +1418,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-108
+107
 ],
 "place": 23,
 "text": "",
@@ -1436,7 +1435,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-108
+107
 ],
 "place": -1,
 "text": "",
@@ -1457,7 +1456,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-111
+110
 ],
 "place": 48,
 "text": "",
@@ -1472,7 +1471,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-111
+110
 ],
 "place": 23,
 "text": "",
@@ -1487,7 +1486,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-111
+110
 ],
 "place": 23,
 "text": "",
@@ -1504,7 +1503,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-111
+110
 ],
 "place": 13,
 "text": "",
@@ -1523,7 +1522,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-114
+113
 ],
 "place": 48,
 "text": "",
@@ -1538,7 +1537,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-114
+113
 ],
 "place": 23,
 "text": "",
@@ -1553,7 +1552,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-114
+113
 ],
 "place": -1,
 "text": "",
@@ -1570,7 +1569,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-115
+114
 ],
 "place": 48,
 "text": "",
@@ -1585,7 +1584,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-115
+114
 ],
 "place": 23,
 "text": "",
@@ -1611,7 +1610,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-123
+122
 ],
 "place": -1,
 "text": "",
@@ -1628,7 +1627,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-123
+122
 ],
 "place": -1,
 "text": "",
@@ -1649,7 +1648,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-126
+125
 ],
 "place": -1,
 "text": "",
@@ -1666,7 +1665,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-126
+125
 ],
 "place": -1,
 "text": "",
@@ -1686,7 +1685,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-128
+127
 ],
 "place": -1,
 "text": "",
@@ -1701,7 +1700,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-128
+127
 ],
 "place": 48,
 "text": "",
@@ -1719,7 +1718,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-130
+129
 ],
 "place": -1,
 "text": "",
@@ -1734,7 +1733,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-130
+129
 ],
 "place": 56,
 "text": "",
@@ -1749,7 +1748,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-130
+129
 ],
 "place": 56,
 "text": "",
@@ -1768,7 +1767,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-131
+130
 ],
 "place": -1,
 "text": "",
@@ -1785,7 +1784,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-131
+130
 ],
 "place": -1,
 "text": "",
@@ -1805,7 +1804,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-133
+132
 ],
 "place": -1,
 "text": "",
@@ -1822,7 +1821,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-133
+132
 ],
 "place": -1,
 "text": "",
@@ -1841,7 +1840,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-136
+135
 ],
 "place": -1,
 "text": "",
@@ -1856,7 +1855,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-136
+135
 ],
 "place": 23,
 "text": "",
@@ -1871,7 +1870,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-136
+135
 ],
 "place": 23,
 "text": "",
@@ -1888,7 +1887,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-136
+135
 ],
 "place": -1,
 "text": "",
@@ -1912,7 +1911,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-144
+143
 ],
 "place": 48,
 "text": "",
@@ -1927,7 +1926,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-144
+143
 ],
 "place": 23,
 "text": "",
@@ -1944,7 +1943,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-144
+143
 ],
 "place": -1,
 "text": "",
@@ -1963,7 +1962,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-145
+144
 ],
 "place": -1,
 "text": "",
@@ -1980,7 +1979,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-145
+144
 ],
 "place": -1,
 "text": "",
@@ -2001,7 +2000,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-148
+147
 ],
 "place": -1,
 "text": "",
@@ -2018,7 +2017,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-148
+147
 ],
 "place": -1,
 "text": "",
@@ -2037,7 +2036,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-151
+150
 ],
 "place": -1,
 "text": "",
@@ -2052,7 +2051,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-151
+150
 ],
 "place": 49,
 "text": "",
@@ -2067,7 +2066,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-151
+150
 ],
 "place": 23,
 "text": "",
@@ -2084,7 +2083,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-151
+150
 ],
 "place": 49,
 "text": "",
@@ -2101,7 +2100,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-152
+151
 ],
 "place": 48,
 "text": "",
@@ -2116,7 +2115,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-152
+151
 ],
 "place": -1,
 "text": "",
@@ -2133,7 +2132,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-152
+151
 ],
 "place": -1,
 "text": "",
@@ -2152,7 +2151,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-153
+152
 ],
 "place": -1,
 "text": "",
@@ -2169,7 +2168,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-153
+152
 ],
 "place": -1,
 "text": "",
@@ -2188,7 +2187,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-154
+153
 ],
 "place": -1,
 "text": "",
@@ -2205,7 +2204,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-154
+153
 ],
 "place": -1,
 "text": "",
@@ -2232,7 +2231,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-163
+162
 ],
 "place": -1,
 "text": "",
@@ -2249,7 +2248,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-163
+162
 ],
 "place": -1,
 "text": "",
@@ -2270,7 +2269,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-166
+165
 ],
 "place": -1,
 "text": "",
@@ -2287,7 +2286,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-166
+165
 ],
 "place": -1,
 "text": "",
@@ -2307,7 +2306,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-168
+167
 ],
 "place": -1,
 "text": "",
@@ -2324,7 +2323,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-168
+167
 ],
 "place": -1,
 "text": "",
@@ -2344,7 +2343,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-170
+169
 ],
 "place": -1,
 "text": "",
@@ -2361,7 +2360,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-170
+169
 ],
 "place": -1,
 "text": "",
@@ -2380,7 +2379,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-171
+170
 ],
 "place": -1,
 "text": "",
@@ -2397,7 +2396,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-171
+170
 ],
 "place": -1,
 "text": "",
@@ -2416,7 +2415,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-174
+173
 ],
 "place": 33,
 "text": "",
@@ -2436,7 +2435,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-176
+175
 ],
 "place": -1,
 "text": "",
@@ -2453,7 +2452,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-176
+175
 ],
 "place": -1,
 "text": "",
@@ -2472,7 +2471,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-177
+176
 ],
 "place": -1,
 "text": "",
@@ -2487,13 +2486,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-177
+176
 ],
 "place": -1,
 "text": "",
 "type": "Death"
 }
 ],
+[],
 [],
 [
 {
@@ -2512,23 +2512,6 @@ I_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth"
-},
-{
-"cita": [
-57
-],
-"date": "",
-"date_sdn": 0,
-"descr": "Estimated death date",
-"gid": "E0126",
-"media": [],
-"part_family": [],
-"part_person": [
-179
-],
-"place": -1,
-"text": "",
-"type": "Death"
 },
 {
 "cita": [],
@@ -2559,6 +2542,23 @@ I_events_0 = [
 "place": 5,
 "text": "",
 "type": "Residence"
+},
+{
+"cita": [
+57
+],
+"date": "",
+"date_sdn": 0,
+"descr": "Estimated death date",
+"gid": "E0126",
+"media": [],
+"part_family": [],
+"part_person": [
+179
+],
+"place": -1,
+"text": "",
+"type": "Death"
 }
 ],
 [
@@ -2625,7 +2625,6 @@ I_events_0 = [
 "type": "Birth"
 }
 ],
-[],
 [
 {
 "cita": [],
@@ -2636,7 +2635,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-183
+182
 ],
 "place": 54,
 "text": "",
@@ -2655,7 +2654,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-184
+183
 ],
 "place": -1,
 "text": "",
@@ -2672,7 +2671,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-184
+183
 ],
 "place": -1,
 "text": "",
@@ -2689,7 +2688,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-185
+184
 ],
 "place": -1,
 "text": "",
@@ -2706,7 +2705,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-186
+185
 ],
 "place": 5,
 "text": "",
@@ -2721,7 +2720,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-186
+185
 ],
 "place": 5,
 "text": "",
@@ -2736,7 +2735,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-186
+185
 ],
 "place": 56,
 "text": "",
@@ -2751,7 +2750,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-186
+185
 ],
 "place": 56,
 "text": "",
@@ -2768,7 +2767,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-187
+186
 ],
 "place": -1,
 "text": "",
@@ -2787,7 +2786,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-188
+187
 ],
 "place": -1,
 "text": "",
@@ -2804,7 +2803,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-188
+187
 ],
 "place": -1,
 "text": "",
@@ -2823,7 +2822,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-189
+188
 ],
 "place": -1,
 "text": "",
@@ -2840,7 +2839,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-189
+188
 ],
 "place": -1,
 "text": "",
@@ -2848,23 +2847,6 @@ I_events_0 = [
 }
 ],
 [
-{
-"cita": [
-43
-],
-"date": "",
-"date_sdn": 0,
-"descr": "Estimated death date",
-"gid": "E0105",
-"media": [],
-"part_family": [],
-"part_person": [
-190
-],
-"place": -1,
-"text": "",
-"type": "Death"
-},
 {
 "cita": [
 114
@@ -2876,7 +2858,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-190
+189
 ],
 "place": 5,
 "text": "",
@@ -2891,11 +2873,28 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-190
+189
 ],
 "place": 5,
 "text": "",
 "type": "Residence"
+},
+{
+"cita": [
+43
+],
+"date": "",
+"date_sdn": 0,
+"descr": "Estimated death date",
+"gid": "E0105",
+"media": [],
+"part_family": [],
+"part_person": [
+189
+],
+"place": -1,
+"text": "",
+"type": "Death"
 }
 ],
 [
@@ -2910,7 +2909,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-191
+190
 ],
 "place": -1,
 "text": "",
@@ -2927,7 +2926,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-191
+190
 ],
 "place": -1,
 "text": "",
@@ -2945,7 +2944,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-193
+192
 ],
 "place": 28,
 "text": "",
@@ -2962,7 +2961,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-193
+192
 ],
 "place": -1,
 "text": "",
@@ -2977,7 +2976,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-193
+192
 ],
 "place": -1,
 "text": "",
@@ -2995,7 +2994,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-195
+194
 ],
 "place": -1,
 "text": "",
@@ -3018,7 +3017,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-200
+199
 ],
 "place": -1,
 "text": "",
@@ -3035,7 +3034,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-200
+199
 ],
 "place": -1,
 "text": "",
@@ -3056,7 +3055,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-203
+202
 ],
 "place": -1,
 "text": "",
@@ -3073,7 +3072,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-203
+202
 ],
 "place": -1,
 "text": "",
@@ -3092,7 +3091,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-204
+203
 ],
 "place": -1,
 "text": "",
@@ -3109,7 +3108,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-204
+203
 ],
 "place": -1,
 "text": "",
@@ -3131,7 +3130,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-208
+207
 ],
 "place": -1,
 "text": "",
@@ -3148,7 +3147,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-208
+207
 ],
 "place": -1,
 "text": "",
@@ -3172,7 +3171,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-214
+213
 ],
 "place": -1,
 "text": "",
@@ -3189,7 +3188,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-214
+213
 ],
 "place": -1,
 "text": "",
@@ -3208,7 +3207,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-215
+214
 ],
 "place": -1,
 "text": "",
@@ -3225,7 +3224,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-215
+214
 ],
 "place": -1,
 "text": "",
@@ -3244,7 +3243,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-218
+217
 ],
 "place": -1,
 "text": "",
@@ -3259,7 +3258,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-218
+217
 ],
 "place": 23,
 "text": "",
@@ -3274,7 +3273,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-218
+217
 ],
 "place": 23,
 "text": "",
@@ -3291,7 +3290,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-218
+217
 ],
 "place": -1,
 "text": "",
@@ -3308,7 +3307,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-219
+218
 ],
 "place": -1,
 "text": "",
@@ -3323,13 +3322,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-219
+218
 ],
 "place": -1,
 "text": "",
 "type": "Death"
 }
 ],
+[],
 [],
 [],
 [

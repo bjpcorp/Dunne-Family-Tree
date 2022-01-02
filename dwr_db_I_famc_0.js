@@ -1,7 +1,6 @@
 // This file is generated
 
 I_famc_0 = [
-[],
 [
 {
 "cita": [],
@@ -710,7 +709,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 43,
+"index": 42,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -1000,7 +999,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 43,
+"index": 42,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -1135,7 +1134,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 42,
+"index": 43,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -1171,7 +1170,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 43,
+"index": 42,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -1308,6 +1307,7 @@ I_famc_0 = [
 "to_mother": "Birth"
 }
 ],
+[],
 [
 {
 "cita": [],
@@ -1320,6 +1320,15 @@ I_famc_0 = [
 [
 {
 "cita": [],
+"index": 55,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
 "index": 56,
 "note": "",
 "to_father": "Birth",
@@ -1345,7 +1354,15 @@ I_famc_0 = [
 "to_mother": "Birth"
 }
 ],
-[],
+[
+{
+"cita": [],
+"index": 57,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
 [
 {
 "cita": [],
@@ -1367,15 +1384,6 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 56,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
 "index": 57,
 "note": "",
 "to_father": "Birth",
@@ -1385,16 +1393,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 57,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 56,
+"index": 55,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -1532,6 +1531,7 @@ I_famc_0 = [
 "to_mother": "Birth"
 }
 ],
+[],
 [],
 [],
 [],

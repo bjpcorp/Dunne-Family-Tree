@@ -157,21 +157,6 @@ F_events_0 = [
 [
 {
 "cita": [],
-"date": "22 February 1900",
-"date_sdn": 2415073,
-"descr": "",
-"gid": "E0393",
-"media": [],
-"part_family": [],
-"part_person": [],
-"place": 54,
-"text": "",
-"type": "Marriage"
-}
-],
-[
-{
-"cita": [],
 "date": "27 January 1869",
 "date_sdn": 2403725,
 "descr": "",
@@ -180,6 +165,21 @@ F_events_0 = [
 "part_family": [],
 "part_person": [],
 "place": 47,
+"text": "",
+"type": "Marriage"
+}
+],
+[
+{
+"cita": [],
+"date": "22 February 1900",
+"date_sdn": 2415073,
+"descr": "",
+"gid": "E0393",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 54,
 "text": "",
 "type": "Marriage"
 }

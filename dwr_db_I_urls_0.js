@@ -29,15 +29,34 @@ I_urls_0 = [
 [],
 [],
 [],
-[],
 [
 {
-"descr": "1901 Census: Edmond Campion Age 39",
+"descr": "Census 1901: Edmond Campion Age 39",
 "type": "Web Home",
 "uri": "http://www.census.nationalarchives.ie/pages/1901/Kilkenny/Clomantagh/Tubbrid_Upper/1455874/"
 },
 {
-"descr": "1911 Census: Edmond Campion Age 48",
+"descr": "Census 1911: Edmond Campion Age 48",
+"type": "Web Home",
+"uri": "http://www.census.nationalarchives.ie/pages/1911/Kilkenny/Clamantagh/Tubbrid_Upper/532445/"
+},
+{
+"descr": "Married 1895: Edmond Campion & Catherine Cody",
+"type": "Web Home",
+"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/marriage_returns/marriages_1895/10537/5838386.pdf"
+},
+{
+"descr": "Birth Record 1896: TWINS Jeremiah & Margaret Campion",
+"type": "Web Home",
+"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/birth_returns/births_1896/02149/1815436.pdf"
+},
+{
+"descr": "Census 1901: Edmond Campion Age 39",
+"type": "Web Home",
+"uri": "http://www.census.nationalarchives.ie/pages/1901/Kilkenny/Clomantagh/Tubbrid_Upper/1455874/"
+},
+{
+"descr": "Census 1911: Edmond Campion Age 48",
 "type": "Web Home",
 "uri": "http://www.census.nationalarchives.ie/pages/1911/Kilkenny/Clamantagh/Tubbrid_Upper/532445/"
 }
@@ -52,7 +71,23 @@ I_urls_0 = [
 [],
 [],
 [],
-[],
+[
+{
+"descr": "Married 1895 Edmond Campion & Catherine Cody, Father Jeremiah Campion",
+"type": "Web Home",
+"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/marriage_returns/marriages_1895/10537/5838386.pdf"
+},
+{
+"descr": "Married 1873: Jeremiah Campion & Mary Moore, Father John Campion",
+"type": "Web Home",
+"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/marriage_returns/marriages_1873/11264/8207964.pdf"
+},
+{
+"descr": "Death Record: Jeremiah Campion 1930 Age 92",
+"type": "Web Home",
+"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/deaths_returns/deaths_1930/04913/4332885.pdf"
+}
+],
 [
 {
 "descr": "1911 Census house 2 in Tubbrid Upper (Clamantagh, Kilkenny)",
@@ -355,6 +390,33 @@ I_urls_0 = [
 ],
 [],
 [],
+[
+{
+"descr": "Married 1869: James Henderson & Joanna Clark",
+"type": "Web Home",
+"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/marriage_returns/marriages_1869/11412/8191357.pdf"
+},
+{
+"descr": "Birth Record: James Henderson III 1871 Father James Henderson II",
+"type": "Web Home",
+"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/birth_returns/births_1871/03296/2207993.pdf"
+},
+{
+"descr": "Birth Record: Thomas Henderson 1881 Father James Henderson II",
+"type": "Web Home",
+"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/birth_returns/births_1882/02793/2025290.pdf"
+},
+{
+"descr": "Married 1900: James Henderson III & Anne Campion, Father James Henderson II",
+"type": "Web Home",
+"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/marriage_returns/marriages_1900/10337/5763627.pdf"
+},
+{
+"descr": "Married 1924: Thomas Henderson & Margaret Campion, Father James Henderson II",
+"type": "Web Home",
+"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/marriage_returns/marriages_1924/09156/5311629.pdf"
+}
+],
 [],
 [],
 [],
@@ -364,8 +426,18 @@ I_urls_0 = [
 [],
 [],
 [],
-[],
-[],
+[
+{
+"descr": "Birth Record: Thomas Henderson 1881",
+"type": "Web Home",
+"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/birth_returns/births_1882/02793/2025290.pdf"
+},
+{
+"descr": "Married 1924: Thomas Henderson & Margaret Campion",
+"type": "Web Home",
+"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/marriage_returns/marriages_1924/09156/5311629.pdf"
+}
+],
 [],
 [],
 [
@@ -418,6 +490,7 @@ I_urls_0 = [
 "uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/marriage_returns/marriages_1886/10852/5962602.pdf"
 }
 ],
+[],
 [],
 [],
 [],
