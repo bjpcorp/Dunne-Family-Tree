@@ -8,8 +8,8 @@ TITLE = "Dunne / Phelan Family Tree";
 SPLIT = 5000;
 DB_SIZES = {
     "C": 117,
-    "F": 101,
-    "I": 316,
+    "F": 103,
+    "I": 322,
     "M": 0,
     "N": 68,
     "P": 58,
