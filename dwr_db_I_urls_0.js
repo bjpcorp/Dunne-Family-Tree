@@ -268,6 +268,46 @@ I_urls_0 = [
 "descr": "Married: Richard Dunne & Mary McEvoy",
 "type": "Web Home",
 "uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/marriage_returns/marriages_1886/10852/5962602.pdf"
+},
+{
+"descr": "Birth Record: James Dunne 1887 Father Richard Dunne",
+"type": "Web Home",
+"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/birth_returns/births_1887/02548/1942889.pdf"
+},
+{
+"descr": "Birth Record: Patrick Dunne 1889 Father Richard Dunne",
+"type": "Web Home",
+"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/birth_returns/births_1889/02472/1918222.pdf"
+},
+{
+"descr": "Birth Record: Mary Dunne 1891 Father Richard Dunne",
+"type": "Web Home",
+"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/birth_returns/births_1891/02367/1884056.pdf"
+},
+{
+"descr": "Birth Record: John Dunne 1894 Father Richard Dunne",
+"type": "Web Home",
+"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/birth_returns/births_1894/02248/1846353.pdf"
+},
+{
+"descr": "Birth Record: Richard Dunne 1896 Father Richard Dunne",
+"type": "Web Home",
+"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/birth_returns/births_1896/02170/1822357.pdf"
+},
+{
+"descr": "1901 Census: Richard Dunne Age 40",
+"type": "Web Home",
+"uri": "http://www.census.nationalarchives.ie/pages/1901/Kilkenny/Odagh/Threecastles/1448419/"
+},
+{
+"descr": "Death Record: Richard Dunne Age 45",
+"type": "Web Home",
+"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/deaths_returns/deaths_1903/05669/4596986.pdf"
+},
+{
+"descr": "Birth Record: Joseph Dunne 1903 Father Richard Dunne Deceased",
+"type": "Web Home",
+"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/birth_returns/births_1903/01857/1723990.pdf"
 }
 ],
 [
