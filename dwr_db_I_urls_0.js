@@ -165,7 +165,7 @@ I_urls_0 = [
 "uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/birth_returns/births_1894/02248/1846353.pdf"
 },
 {
-"descr": "1901 Census: John Dune Age 7",
+"descr": "1901 Census: John Dunne Age 7",
 "type": "Web Home",
 "uri": "http://www.census.nationalarchives.ie/pages/1901/Kilkenny/Odagh/Threecastles/1448419/"
 },

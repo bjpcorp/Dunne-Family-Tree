@@ -109,7 +109,26 @@ I_attr_0 = [
 [],
 [],
 [],
-[],
+[
+{
+"cita": [],
+"note": "",
+"type": "Military Rank",
+"value": "Private"
+},
+{
+"cita": [],
+"note": "",
+"type": "Military Number",
+"value": "9290"
+},
+{
+"cita": [],
+"note": "",
+"type": "Military Unit",
+"value": "1/Conn Rgrs"
+}
+],
 [
 {
 "cita": [
@@ -154,7 +173,26 @@ I_attr_0 = [
 [],
 [],
 [],
-[],
+[
+{
+"cita": [],
+"note": "",
+"type": "Military Rank",
+"value": "Sergeant"
+},
+{
+"cita": [],
+"note": "",
+"type": "Military Number",
+"value": "10323"
+},
+{
+"cita": [],
+"note": "",
+"type": "Military Unit",
+"value": "1/RDF"
+}
+],
 [],
 [],
 [],
@@ -173,12 +211,6 @@ I_attr_0 = [
 {
 "cita": [],
 "note": "",
-"type": "Occupation",
-"value": "Farm Labourer"
-},
-{
-"cita": [],
-"note": "",
 "type": "Eye Colour",
 "value": "Hazel"
 },
@@ -187,6 +219,30 @@ I_attr_0 = [
 "note": "",
 "type": "Hair Colour",
 "value": "Auburn"
+},
+{
+"cita": [],
+"note": "",
+"type": "Military Rank",
+"value": "Private"
+},
+{
+"cita": [],
+"note": "",
+"type": "Military Number",
+"value": "12682"
+},
+{
+"cita": [],
+"note": "",
+"type": "Military Unit",
+"value": "6/RDF(+)"
+},
+{
+"cita": [],
+"note": "",
+"type": "Occupation",
+"value": "Farm Labourer"
 }
 ],
 [],
