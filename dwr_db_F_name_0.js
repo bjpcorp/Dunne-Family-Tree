@@ -85,7 +85,7 @@ F_name_0 = [
 "Family of John Joseph Phelan and Alice Lee Wong",
 "Family of Martin J Phelan and Anne Marie O'Brien",
 "Family of Peter P Phelan and Helen M Kelleher",
-"Family of Pierce Phelan I and Cathrine Shiel",
+"Family of Pierce Phelan I and Catherine Shiel",
 "Family of Seamus Michael P Phelan and Katy Nicolson",
 "Family of Stephen Phelan and Violet Kenna",
 "Family of Valerie Phelan",

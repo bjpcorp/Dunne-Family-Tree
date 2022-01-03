@@ -303,7 +303,7 @@ I_name_0 = [
 "Joan G Sequin",
 "David Shanahan",
 "Sophie Shanahan",
-"Cathrine Shiel",
+"Catherine Shiel",
 "John Shiel",
 "John Shiel",
 "John Shiel",
