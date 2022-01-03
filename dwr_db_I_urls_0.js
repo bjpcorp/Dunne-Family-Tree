@@ -222,7 +222,7 @@ I_urls_0 = [
 {
 "descr": "James Dunne Father of Richard Dunne",
 "type": "Web Search",
-"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/marriage_returns/marriages_1886https://civilrecords.irishgenealogy.ie/churchrecords/images/marriage_returns/marriages_1886/10852/5962602.pdf/10852/5962602.pdf"
+"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/marriage_returns/marriages_1886/10852/5962602.pdf"
 }
 ],
 [],
