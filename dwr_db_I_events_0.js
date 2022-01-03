@@ -2937,9 +2937,24 @@ I_events_0 = [
 [
 {
 "cita": [],
-"date": "1901 31st March",
-"date_sdn": 0,
-"descr": "Census - Margaret Walsh Age 45",
+"date": "1856",
+"date_sdn": 2398950,
+"descr": "",
+"gid": "E0214",
+"media": [],
+"part_family": [],
+"part_person": [
+192
+],
+"place": -1,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "31 March 1901",
+"date_sdn": 2415475,
+"descr": "Margaret Walsh Age 45",
 "gid": "E0457",
 "media": [],
 "part_family": [],
@@ -2947,6 +2962,21 @@ I_events_0 = [
 192
 ],
 "place": 28,
+"text": "",
+"type": "Census"
+},
+{
+"cita": [],
+"date": "2 April 1911",
+"date_sdn": 2419129,
+"descr": "Margaret Walsh Age 59",
+"gid": "E0473",
+"media": [],
+"part_family": [],
+"part_person": [
+192
+],
+"place": 21,
 "text": "",
 "type": "Census"
 },
@@ -2966,21 +2996,6 @@ I_events_0 = [
 "place": -1,
 "text": "",
 "type": "Death"
-},
-{
-"cita": [],
-"date": "1856",
-"date_sdn": 2398950,
-"descr": "",
-"gid": "E0214",
-"media": [],
-"part_family": [],
-"part_person": [
-192
-],
-"place": -1,
-"text": "",
-"type": "Birth"
 }
 ],
 [],

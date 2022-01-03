@@ -445,7 +445,14 @@ I_attr_0 = [
 [],
 [],
 [],
-[],
+[
+{
+"cita": [],
+"note": "",
+"type": "Occupation",
+"value": "Farmer"
+}
+],
 [],
 [],
 [],
