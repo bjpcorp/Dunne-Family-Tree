@@ -7,12 +7,12 @@ DWR_VERSION_500 = true;
 TITLE = "Dunne / Phelan Family Tree";
 SPLIT = 5000;
 DB_SIZES = {
-    "C": 117,
+    "C": 115,
     "F": 103,
     "I": 322,
     "M": 0,
     "N": 68,
-    "P": 58,
+    "P": 55,
     "R": 0,
     "S": 3
 };NB_GENERATIONS_MAX = 10;
@@ -91,11 +91,11 @@ INC_PLACES=true;
 INC_REPOSITORIES=false;
 INC_NOTES=false;
 INC_ADDRESSES=true;
-MAP_PLACE=false;
-MAP_FAMILY=false;
+MAP_PLACE=true;
+MAP_FAMILY=true;
 MAP_SERVICE="Google";
 SOURCE_AUTHOR_IN_TITLE=true;
-TABBED_PANELS=false;
+TABBED_PANELS=true;
 INC_CHANGE_TIME=true;
 HIDE_GID=true;
 INC_PAGECONF = true;

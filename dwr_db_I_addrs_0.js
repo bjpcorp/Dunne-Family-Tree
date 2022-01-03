@@ -391,42 +391,6 @@ I_addrs_0 = [
 [],
 [],
 [],
-[
-{
-"cita": [],
-"date": "",
-"date_sdn": 0,
-"location": [
-"",
-"Ballyspellan",
-"",
-"Johnstown",
-"Kilkenny",
-"",
-"",
-"",
-""
-],
-"note": ""
-},
-{
-"cita": [],
-"date": "",
-"date_sdn": 0,
-"location": [
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-""
-],
-"note": ""
-}
-],
 [],
 [],
 [],
@@ -435,25 +399,8 @@ I_addrs_0 = [
 [],
 [],
 [],
-[
-{
-"cita": [],
-"date": "",
-"date_sdn": 0,
-"location": [
-"",
-"Watercastle",
-"",
-"Durrow",
-"Laois",
-"",
-"",
-"",
-""
-],
-"note": ""
-}
-],
+[],
+[],
 [],
 [],
 [],
@@ -623,25 +570,8 @@ I_addrs_0 = [
 [],
 [],
 [],
-[
-{
-"cita": [],
-"date": "",
-"date_sdn": 0,
-"location": [
-"",
-"Ballinakill",
-"",
-"",
-"Laois",
-"",
-"",
-"",
-""
-],
-"note": ""
-}
-],
+[],
+[],
 [],
 [],
 [],
@@ -671,45 +601,8 @@ I_addrs_0 = [
 "note": ""
 }
 ],
-[
-{
-"cita": [],
-"date": "31 March 1901",
-"date_sdn": 2415475,
-"location": [
-"House 7 Threecastles",
-"Odagh",
-"",
-"",
-"Kilkenny",
-"",
-"",
-"Ireland",
-""
-],
-"note": ""
-}
-],
 [],
-[
-{
-"cita": [],
-"date": "31 March 1901",
-"date_sdn": 2415475,
-"location": [
-"House 7 Threecastles",
-"Odagh",
-"",
-"",
-"Kilkenny",
-"",
-"",
-"Ireland",
-""
-],
-"note": ""
-}
-],
+[],
 [],
 [],
 [],

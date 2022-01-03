@@ -36,7 +36,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 53,
+"place": 50,
 "text": "",
 "type": "Marriage"
 }
@@ -92,21 +92,7 @@ F_events_0 = [
 [],
 [],
 [],
-[
-{
-"cita": [],
-"date": "19 October 1916",
-"date_sdn": 2421156,
-"descr": "",
-"gid": "E0242",
-"media": [],
-"part_family": [],
-"part_person": [],
-"place": 48,
-"text": "",
-"type": "Marriage"
-}
-],
+[],
 [],
 [],
 [],
@@ -127,26 +113,12 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 48,
+"place": 45,
 "text": "",
 "type": "Marriage"
 }
 ],
-[
-{
-"cita": [],
-"date": "",
-"date_sdn": 0,
-"descr": "",
-"gid": "E0323",
-"media": [],
-"part_family": [],
-"part_person": [],
-"place": -1,
-"text": "",
-"type": "Marriage"
-}
-],
+[],
 [],
 [],
 [],
@@ -164,7 +136,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 47,
+"place": 44,
 "text": "",
 "type": "Marriage"
 }
@@ -179,7 +151,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 54,
+"place": 51,
 "text": "",
 "type": "Marriage"
 }
@@ -252,21 +224,7 @@ F_events_0 = [
 [],
 [],
 [],
-[
-{
-"cita": [],
-"date": "December 1972",
-"date_sdn": 2441653,
-"descr": "",
-"gid": "E0292",
-"media": [],
-"part_family": [],
-"part_person": [],
-"place": -1,
-"text": "",
-"type": "Marriage"
-}
-],
+[],
 [],
 [],
 [],
@@ -282,7 +240,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 57,
+"place": 54,
 "text": "",
 "type": "Marriage"
 }
@@ -292,21 +250,7 @@ F_events_0 = [
 [],
 [],
 [],
-[
-{
-"cita": [],
-"date": "30 January 1918",
-"date_sdn": 2421624,
-"descr": "",
-"gid": "E0313",
-"media": [],
-"part_family": [],
-"part_person": [],
-"place": 0,
-"text": "",
-"type": "Marriage"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -335,26 +279,12 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 48,
+"place": 45,
 "text": "",
 "type": "Marriage"
 }
 ],
-[
-{
-"cita": [],
-"date": "6 February 1917",
-"date_sdn": 2421266,
-"descr": "",
-"gid": "E0267",
-"media": [],
-"part_family": [],
-"part_person": [],
-"place": 46,
-"text": "",
-"type": "Marriage"
-}
-],
+[],
 []
 ]
 Dwr.ScriptLoaded('dwr_db_F_events_0.js');

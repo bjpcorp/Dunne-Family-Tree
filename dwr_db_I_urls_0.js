@@ -262,18 +262,7 @@ I_urls_0 = [
 "uri": "http://www.census.nationalarchives.ie/pages/1911/Kilkenny/Odagh/Three_castles/566995/"
 }
 ],
-[
-{
-"descr": "Kate Dunne Birth Record 1901",
-"type": "Web Home",
-"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/birth_returns/births_1901/01941/1750874.pdf"
-},
-{
-"descr": "Kate Dunne Age 10 Census",
-"type": "Web Home",
-"uri": "http://www.census.nationalarchives.ie/pages/1911/Kilkenny/Odagh/Three_castles/566995/"
-}
-],
+[],
 [],
 [],
 [],
@@ -414,13 +403,7 @@ I_urls_0 = [
 [],
 [],
 [],
-[
-{
-"descr": "Death Notice",
-"type": "Web Search",
-"uri": "http://www.rip.ie/showdn.php?dn=212071/Edmund%20(Neddy)HENDERSON/Johnstown/Kilkenny"
-}
-],
+[],
 [],
 [
 {
@@ -693,28 +676,7 @@ I_urls_0 = [
 [],
 [],
 [],
-[
-{
-"descr": "Birth Record: Catherine Walsh",
-"type": "Web Home",
-"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/birth_returns/births_1894/02237/1843064.pdf"
-},
-{
-"descr": "1901 Census Catherine Walsh Age 6",
-"type": "Web Home",
-"uri": "http://www.census.nationalarchives.ie/pages/1901/Kilkenny/Odagh/Threecastles/1448424/"
-},
-{
-"descr": "1911 Census: Catherine Walsh Age 16",
-"type": "Web Home",
-"uri": "http://www.census.nationalarchives.ie/pages/1911/Kilkenny/Odagh/Three_castles/567005/"
-},
-{
-"descr": "Married 1916: Catherine Walsh & John Dunne",
-"type": "Web Home",
-"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/marriage_returns/marriages_1916/09796/5556589.pdf"
-}
-],
+[],
 [
 {
 "descr": "Married 1887: Matthew Walsh & Margaret Hennessy",
@@ -743,18 +705,7 @@ I_urls_0 = [
 }
 ],
 [],
-[
-{
-"descr": "Census 1901: Peter Walsh Age 13",
-"type": "Web Home",
-"uri": "http://www.census.nationalarchives.ie/pages/1901/Kilkenny/Odagh/Threecastles/1448424/"
-},
-{
-"descr": "Married 1917: Peter Walsh & Margaret Glennon, Father Matthew Walsh",
-"type": "Web Home",
-"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/marriage_returns/marriages_1917/09738/5533710.pdf"
-}
-],
+[],
 [],
 [],
 [],

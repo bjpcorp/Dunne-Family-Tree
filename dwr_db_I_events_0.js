@@ -68,23 +68,7 @@ I_events_0 = [
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "14 September 2020",
-"date_sdn": 2459107,
-"descr": "",
-"gid": "E0307",
-"media": [],
-"part_family": [],
-"part_person": [
-16
-],
-"place": 44,
-"text": "",
-"type": "Death"
-}
-],
+[],
 [
 {
 "cita": [
@@ -128,7 +112,7 @@ I_events_0 = [
 [
 {
 "cita": [
-72
+71
 ],
 "date": "",
 "date_sdn": 0,
@@ -145,7 +129,7 @@ I_events_0 = [
 },
 {
 "cita": [
-73
+72
 ],
 "date": "",
 "date_sdn": 0,
@@ -259,7 +243,7 @@ I_events_0 = [
 "part_person": [
 28
 ],
-"place": 52,
+"place": 49,
 "text": "",
 "type": "Residence"
 },
@@ -274,7 +258,7 @@ I_events_0 = [
 "part_person": [
 28
 ],
-"place": 51,
+"place": 48,
 "text": "",
 "type": "Residence"
 },
@@ -329,7 +313,7 @@ I_events_0 = [
 [
 {
 "cita": [
-69
+68
 ],
 "date": "",
 "date_sdn": 0,
@@ -360,23 +344,7 @@ I_events_0 = [
 "type": "Birth"
 }
 ],
-[
-{
-"cita": [],
-"date": "27 December 1896",
-"date_sdn": 2413921,
-"descr": "",
-"gid": "E0415",
-"media": [],
-"part_family": [],
-"part_person": [
-30
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [],
 [
 {
@@ -390,7 +358,7 @@ I_events_0 = [
 "part_person": [
 32
 ],
-"place": 51,
+"place": 48,
 "text": "",
 "type": "Birth"
 },
@@ -405,7 +373,7 @@ I_events_0 = [
 "part_person": [
 32
 ],
-"place": 52,
+"place": 49,
 "text": "",
 "type": "Residence"
 },
@@ -452,7 +420,7 @@ I_events_0 = [
 "part_person": [
 33
 ],
-"place": 52,
+"place": 49,
 "text": "",
 "type": "Residence"
 },
@@ -475,7 +443,7 @@ I_events_0 = [
 [
 {
 "cita": [
-70
+69
 ],
 "date": "",
 "date_sdn": 0,
@@ -518,7 +486,7 @@ I_events_0 = [
 "part_person": [
 35
 ],
-"place": 51,
+"place": 48,
 "text": "",
 "type": "Birth"
 },
@@ -554,7 +522,7 @@ I_events_0 = [
 },
 {
 "cita": [
-61
+60
 ],
 "date": "",
 "date_sdn": 0,
@@ -588,7 +556,7 @@ I_events_0 = [
 [
 {
 "cita": [
-101
+99
 ],
 "date": "",
 "date_sdn": 0,
@@ -622,7 +590,7 @@ I_events_0 = [
 [
 {
 "cita": [
-76
+75
 ],
 "date": "",
 "date_sdn": 0,
@@ -688,7 +656,7 @@ I_events_0 = [
 [
 {
 "cita": [
-91
+90
 ],
 "date": "",
 "date_sdn": 0,
@@ -731,7 +699,7 @@ I_events_0 = [
 "part_person": [
 40
 ],
-"place": 36,
+"place": 35,
 "text": "",
 "type": "Residence"
 },
@@ -746,7 +714,7 @@ I_events_0 = [
 "part_person": [
 40
 ],
-"place": 52,
+"place": 49,
 "text": "",
 "type": "Residence"
 }
@@ -754,7 +722,7 @@ I_events_0 = [
 [
 {
 "cita": [
-68
+67
 ],
 "date": "",
 "date_sdn": 0,
@@ -846,7 +814,7 @@ I_events_0 = [
 "part_person": [
 44
 ],
-"place": 52,
+"place": 49,
 "text": "",
 "type": "Residence"
 },
@@ -876,7 +844,7 @@ I_events_0 = [
 "part_person": [
 44
 ],
-"place": 52,
+"place": 49,
 "text": "",
 "type": "Death"
 }
@@ -893,7 +861,7 @@ I_events_0 = [
 "part_person": [
 45
 ],
-"place": 36,
+"place": 35,
 "text": "",
 "type": "Residence"
 },
@@ -908,7 +876,7 @@ I_events_0 = [
 "part_person": [
 45
 ],
-"place": 52,
+"place": 49,
 "text": "",
 "type": "Residence"
 }
@@ -916,7 +884,7 @@ I_events_0 = [
 [
 {
 "cita": [
-74
+73
 ],
 "date": "",
 "date_sdn": 0,
@@ -933,7 +901,7 @@ I_events_0 = [
 },
 {
 "cita": [
-75
+74
 ],
 "date": "",
 "date_sdn": 0,
@@ -1045,7 +1013,7 @@ I_events_0 = [
 [
 {
 "cita": [
-83
+82
 ],
 "date": "",
 "date_sdn": 0,
@@ -1062,7 +1030,7 @@ I_events_0 = [
 },
 {
 "cita": [
-84
+83
 ],
 "date": "",
 "date_sdn": 0,
@@ -1342,7 +1310,7 @@ I_events_0 = [
 "part_person": [
 100
 ],
-"place": 56,
+"place": 53,
 "text": "",
 "type": "Death"
 }
@@ -1351,7 +1319,7 @@ I_events_0 = [
 [
 {
 "cita": [
-66
+65
 ],
 "date": "20 June 1982",
 "date_sdn": 2445141,
@@ -1368,7 +1336,7 @@ I_events_0 = [
 },
 {
 "cita": [
-67
+66
 ],
 "date": "",
 "date_sdn": 0,
@@ -1387,7 +1355,7 @@ I_events_0 = [
 [
 {
 "cita": [
-102
+100
 ],
 "date": "16 oct",
 "date_sdn": 0,
@@ -1404,7 +1372,7 @@ I_events_0 = [
 },
 {
 "cita": [
-103
+101
 ],
 "date": "",
 "date_sdn": 0,
@@ -1435,7 +1403,7 @@ I_events_0 = [
 "part_person": [
 107
 ],
-"place": 48,
+"place": 45,
 "text": "",
 "type": "Birth"
 },
@@ -1477,7 +1445,7 @@ I_events_0 = [
 [
 {
 "cita": [
-109
+107
 ],
 "date": "20 June 1894",
 "date_sdn": 2413000,
@@ -1488,7 +1456,7 @@ I_events_0 = [
 "part_person": [
 110
 ],
-"place": 48,
+"place": 45,
 "text": "",
 "type": "Birth"
 },
@@ -1524,7 +1492,7 @@ I_events_0 = [
 },
 {
 "cita": [
-94
+93
 ],
 "date": "30 December 1972",
 "date_sdn": 2441682,
@@ -1554,7 +1522,7 @@ I_events_0 = [
 "part_person": [
 113
 ],
-"place": 48,
+"place": 45,
 "text": "",
 "type": "Birth"
 },
@@ -1589,38 +1557,7 @@ I_events_0 = [
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "23 June 1901",
-"date_sdn": 2415559,
-"descr": "",
-"gid": "E0263",
-"media": [],
-"part_family": [],
-"part_person": [
-114
-],
-"place": 48,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [],
-"date": "2 April 1911",
-"date_sdn": 2419129,
-"descr": "Catherine (Kate) Dunne Age 10",
-"gid": "E0004",
-"media": [],
-"part_family": [],
-"part_person": [
-114
-],
-"place": 23,
-"text": "",
-"type": "Census"
-}
-],
+[],
 [],
 [],
 [],
@@ -1732,7 +1669,7 @@ I_events_0 = [
 "part_person": [
 127
 ],
-"place": 48,
+"place": 45,
 "text": "",
 "type": "Birth"
 }
@@ -1765,7 +1702,7 @@ I_events_0 = [
 "part_person": [
 129
 ],
-"place": 56,
+"place": 53,
 "text": "",
 "type": "Residence"
 },
@@ -1780,7 +1717,7 @@ I_events_0 = [
 "part_person": [
 129
 ],
-"place": 56,
+"place": 53,
 "text": "",
 "type": "Death"
 }
@@ -1825,7 +1762,7 @@ I_events_0 = [
 [
 {
 "cita": [
-87
+86
 ],
 "date": "",
 "date_sdn": 0,
@@ -1842,7 +1779,7 @@ I_events_0 = [
 },
 {
 "cita": [
-88
+87
 ],
 "date": "",
 "date_sdn": 0,
@@ -1943,7 +1880,7 @@ I_events_0 = [
 "part_person": [
 143
 ],
-"place": 48,
+"place": 45,
 "text": "",
 "type": "Birth"
 },
@@ -1964,7 +1901,7 @@ I_events_0 = [
 },
 {
 "cita": [
-100
+98
 ],
 "date": "",
 "date_sdn": 0,
@@ -2021,7 +1958,7 @@ I_events_0 = [
 [
 {
 "cita": [
-81
+80
 ],
 "date": "",
 "date_sdn": 0,
@@ -2038,7 +1975,7 @@ I_events_0 = [
 },
 {
 "cita": [
-82
+81
 ],
 "date": "",
 "date_sdn": 0,
@@ -2083,7 +2020,7 @@ I_events_0 = [
 "part_person": [
 150
 ],
-"place": 49,
+"place": 46,
 "text": "",
 "type": "Residence"
 },
@@ -2104,7 +2041,7 @@ I_events_0 = [
 },
 {
 "cita": [
-112
+110
 ],
 "date": "31 January 1903",
 "date_sdn": 2416146,
@@ -2115,7 +2052,7 @@ I_events_0 = [
 "part_person": [
 150
 ],
-"place": 49,
+"place": 46,
 "text": "",
 "type": "Death"
 }
@@ -2132,7 +2069,7 @@ I_events_0 = [
 "part_person": [
 151
 ],
-"place": 48,
+"place": 45,
 "text": "",
 "type": "Birth"
 },
@@ -2172,7 +2109,7 @@ I_events_0 = [
 [
 {
 "cita": [
-79
+78
 ],
 "date": "",
 "date_sdn": 0,
@@ -2189,7 +2126,7 @@ I_events_0 = [
 },
 {
 "cita": [
-80
+79
 ],
 "date": "",
 "date_sdn": 0,
@@ -2290,7 +2227,7 @@ I_events_0 = [
 [
 {
 "cita": [
-92
+91
 ],
 "date": "",
 "date_sdn": 0,
@@ -2307,7 +2244,7 @@ I_events_0 = [
 },
 {
 "cita": [
-93
+92
 ],
 "date": "",
 "date_sdn": 0,
@@ -2327,7 +2264,7 @@ I_events_0 = [
 [
 {
 "cita": [
-64
+63
 ],
 "date": "",
 "date_sdn": 0,
@@ -2344,7 +2281,7 @@ I_events_0 = [
 },
 {
 "cita": [
-65
+64
 ],
 "date": "",
 "date_sdn": 0,
@@ -2364,7 +2301,7 @@ I_events_0 = [
 [
 {
 "cita": [
-96
+94
 ],
 "date": "",
 "date_sdn": 0,
@@ -2381,7 +2318,7 @@ I_events_0 = [
 },
 {
 "cita": [
-97
+95
 ],
 "date": "",
 "date_sdn": 0,
@@ -2435,23 +2372,7 @@ I_events_0 = [
 ],
 [],
 [],
-[
-{
-"cita": [],
-"date": "1 January 1891",
-"date_sdn": 2411734,
-"descr": "",
-"gid": "E0268",
-"media": [],
-"part_family": [],
-"part_person": [
-173
-],
-"place": 33,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [],
 [
 {
@@ -2489,40 +2410,7 @@ I_events_0 = [
 "type": "Death"
 }
 ],
-[
-{
-"cita": [
-95
-],
-"date": "",
-"date_sdn": 0,
-"descr": "Estimated birth date",
-"gid": "E0189",
-"media": [],
-"part_family": [],
-"part_person": [
-176
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [],
-"date": "16 December 2013",
-"date_sdn": 2456643,
-"descr": "St Kierans Church, Ballyspellan, Johnstown, Kilkenny",
-"gid": "E0002",
-"media": [],
-"part_family": [],
-"part_person": [
-176
-],
-"place": -1,
-"text": "",
-"type": "Death"
-}
-],
+[],
 [],
 [],
 [
@@ -2638,44 +2526,12 @@ I_events_0 = [
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "18 January 1902",
-"date_sdn": 2415768,
-"descr": "",
-"gid": "E0397",
-"media": [],
-"part_family": [],
-"part_person": [
-181
-],
-"place": 55,
-"text": "",
-"type": "Birth"
-}
-],
-[
-{
-"cita": [],
-"date": "14 July 1883",
-"date_sdn": 2409006,
-"descr": "",
-"gid": "E0400",
-"media": [],
-"part_family": [],
-"part_person": [
-182
-],
-"place": 54,
-"text": "",
-"type": "Birth"
-}
-],
+[],
+[],
 [
 {
 "cita": [
-77
+76
 ],
 "date": "",
 "date_sdn": 0,
@@ -2692,7 +2548,7 @@ I_events_0 = [
 },
 {
 "cita": [
-78
+77
 ],
 "date": "",
 "date_sdn": 0,
@@ -2708,85 +2564,8 @@ I_events_0 = [
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "25 December 1900",
-"date_sdn": 2415379,
-"descr": "",
-"gid": "E0401",
-"media": [],
-"part_family": [],
-"part_person": [
-184
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-}
-],
-[
-{
-"cita": [],
-"date": "4 September 1930",
-"date_sdn": 2426224,
-"descr": "",
-"gid": "E0016",
-"media": [],
-"part_family": [],
-"part_person": [
-185
-],
-"place": 5,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [],
-"date": "4 September 1930",
-"date_sdn": 2426224,
-"descr": "",
-"gid": "E0424",
-"media": [],
-"part_family": [],
-"part_person": [
-185
-],
-"place": 5,
-"text": "",
-"type": "Residence"
-},
-{
-"cita": [],
-"date": "1950",
-"date_sdn": 2433283,
-"descr": "",
-"gid": "E0230",
-"media": [],
-"part_family": [],
-"part_person": [
-185
-],
-"place": 56,
-"text": "",
-"type": "Residence"
-},
-{
-"cita": [],
-"date": "9 February 2013",
-"date_sdn": 2456333,
-"descr": "",
-"gid": "E0017",
-"media": [],
-"part_family": [],
-"part_person": [
-185
-],
-"place": 56,
-"text": "",
-"type": "Death"
-}
-],
+[],
+[],
 [
 {
 "cita": [],
@@ -2843,7 +2622,7 @@ I_events_0 = [
 [
 {
 "cita": [
-89
+88
 ],
 "date": "",
 "date_sdn": 0,
@@ -2860,7 +2639,7 @@ I_events_0 = [
 },
 {
 "cita": [
-90
+89
 ],
 "date": "",
 "date_sdn": 0,
@@ -2879,7 +2658,7 @@ I_events_0 = [
 [
 {
 "cita": [
-114
+112
 ],
 "date": "20 November 1881",
 "date_sdn": 2408405,
@@ -2930,7 +2709,7 @@ I_events_0 = [
 [
 {
 "cita": [
-62
+61
 ],
 "date": "",
 "date_sdn": 0,
@@ -2947,7 +2726,7 @@ I_events_0 = [
 },
 {
 "cita": [
-63
+62
 ],
 "date": "",
 "date_sdn": 0,
@@ -3243,7 +3022,7 @@ I_events_0 = [
 [
 {
 "cita": [
-85
+84
 ],
 "date": "",
 "date_sdn": 0,
@@ -3260,7 +3039,7 @@ I_events_0 = [
 },
 {
 "cita": [
-86
+85
 ],
 "date": "",
 "date_sdn": 0,
@@ -3326,7 +3105,7 @@ I_events_0 = [
 },
 {
 "cita": [
-71
+70
 ],
 "date": "",
 "date_sdn": 0,
@@ -3377,68 +3156,7 @@ I_events_0 = [
 [],
 [],
 [],
-[
-{
-"cita": [],
-"date": "1897",
-"date_sdn": 2413926,
-"descr": "",
-"gid": "E0359",
-"media": [],
-"part_family": [],
-"part_person": [
-222
-],
-"place": 43,
-"text": "",
-"type": "Residence"
-},
-{
-"cita": [],
-"date": "1 November 1897",
-"date_sdn": 2414230,
-"descr": "",
-"gid": "E0320",
-"media": [],
-"part_family": [],
-"part_person": [
-222
-],
-"place": 43,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [],
-"date": "1901",
-"date_sdn": 2415386,
-"descr": "",
-"gid": "E0363",
-"media": [],
-"part_family": [],
-"part_person": [
-222
-],
-"place": 25,
-"text": "",
-"type": "Residence"
-},
-{
-"cita": [],
-"date": "1911",
-"date_sdn": 2419038,
-"descr": "",
-"gid": "E0364",
-"media": [],
-"part_family": [],
-"part_person": [
-222
-],
-"place": 29,
-"text": "",
-"type": "Residence"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -3481,7 +3199,7 @@ I_events_0 = [
 "part_person": [
 223
 ],
-"place": 43,
+"place": 42,
 "text": "",
 "type": "Residence"
 },
@@ -3554,7 +3272,7 @@ I_events_0 = [
 [
 {
 "cita": [
-98
+96
 ],
 "date": "",
 "date_sdn": 0,
@@ -3571,7 +3289,7 @@ I_events_0 = [
 },
 {
 "cita": [
-99
+97
 ],
 "date": "",
 "date_sdn": 0,
@@ -3600,40 +3318,7 @@ I_events_0 = [
 [],
 [],
 [],
-[
-{
-"cita": [
-58
-],
-"date": "",
-"date_sdn": 0,
-"descr": "Estimated birth date",
-"gid": "E0129",
-"media": [],
-"part_family": [],
-"part_person": [
-242
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [],
-"date": "15 March 2019",
-"date_sdn": 2458558,
-"descr": "",
-"gid": "E0322",
-"media": [],
-"part_family": [],
-"part_person": [
-242
-],
-"place": 13,
-"text": "",
-"type": "Death"
-}
-],
+[],
 [],
 [],
 [],
@@ -3672,7 +3357,7 @@ I_events_0 = [
 [
 {
 "cita": [
-106
+104
 ],
 "date": "",
 "date_sdn": 0,
@@ -3689,7 +3374,7 @@ I_events_0 = [
 },
 {
 "cita": [
-107
+105
 ],
 "date": "",
 "date_sdn": 0,
@@ -3732,7 +3417,7 @@ I_events_0 = [
 "part_person": [
 248
 ],
-"place": 45,
+"place": 43,
 "text": "",
 "type": "Residence"
 },
@@ -3850,7 +3535,7 @@ I_events_0 = [
 "part_person": [
 258
 ],
-"place": 45,
+"place": 43,
 "text": "",
 "type": "Residence"
 }
@@ -3888,78 +3573,15 @@ I_events_0 = [
 }
 ],
 [],
-[
-{
-"cita": [],
-"date": "11 August 2011",
-"date_sdn": 2455785,
-"descr": "",
-"gid": "E0416",
-"media": [],
-"part_family": [],
-"part_person": [
-261
-],
-"place": -1,
-"text": "",
-"type": "Death"
-}
-],
 [],
 [],
 [],
-[
-{
-"cita": [],
-"date": "13 February 1965",
-"date_sdn": 2438805,
-"descr": "",
-"gid": "E0291",
-"media": [],
-"part_family": [],
-"part_person": [
-265
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [],
-"date": "13 September 2019",
-"date_sdn": 2458740,
-"descr": "",
-"gid": "E0273",
-"media": [],
-"part_family": [],
-"part_person": [
-265
-],
-"place": -1,
-"text": "",
-"type": "Death"
-}
-],
 [],
 [],
 [],
-[
-{
-"cita": [],
-"date": "19 January 2018",
-"date_sdn": 2458138,
-"descr": "",
-"gid": "E0252",
-"media": [],
-"part_family": [],
-"part_person": [
-269
-],
-"place": -1,
-"text": "",
-"type": "Death"
-}
-],
+[],
+[],
+[],
 [],
 [],
 [],
@@ -3999,23 +3621,7 @@ I_events_0 = [
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "21 June 2018",
-"date_sdn": 2458291,
-"descr": "",
-"gid": "E0253",
-"media": [],
-"part_family": [],
-"part_person": [
-278
-],
-"place": -1,
-"text": "",
-"type": "Death"
-}
-],
+[],
 [],
 [],
 [],
@@ -4092,7 +3698,7 @@ I_events_0 = [
 [
 {
 "cita": [
-108
+106
 ],
 "date": "",
 "date_sdn": 0,
@@ -4118,7 +3724,7 @@ I_events_0 = [
 "part_person": [
 291
 ],
-"place": 53,
+"place": 50,
 "text": "",
 "type": "Birth"
 },
@@ -4168,7 +3774,7 @@ I_events_0 = [
 "part_person": [
 295
 ],
-"place": 34,
+"place": 33,
 "text": "",
 "type": "Residence"
 }
@@ -4178,7 +3784,7 @@ I_events_0 = [
 [
 {
 "cita": [
-59
+58
 ],
 "date": "",
 "date_sdn": 0,
@@ -4195,7 +3801,7 @@ I_events_0 = [
 },
 {
 "cita": [
-60
+59
 ],
 "date": "",
 "date_sdn": 0,
@@ -4214,100 +3820,8 @@ I_events_0 = [
 [],
 [],
 [],
-[
-{
-"cita": [],
-"date": "1924",
-"date_sdn": 2423786,
-"descr": "",
-"gid": "E0310",
-"media": [],
-"part_family": [],
-"part_person": [
-302
-],
-"place": 34,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [],
-"date": "1942",
-"date_sdn": 2430361,
-"descr": "",
-"gid": "E0347",
-"media": [],
-"part_family": [],
-"part_person": [
-302
-],
-"place": 34,
-"text": "",
-"type": "Residence"
-},
-{
-"cita": [],
-"date": "3 January 2011",
-"date_sdn": 2455565,
-"descr": "",
-"gid": "E0417",
-"media": [],
-"part_family": [],
-"part_person": [
-302
-],
-"place": -1,
-"text": "",
-"type": "Death"
-}
-],
-[
-{
-"cita": [],
-"date": "13 October 1897",
-"date_sdn": 2414211,
-"descr": "",
-"gid": "E0317",
-"media": [],
-"part_family": [],
-"part_person": [
-303
-],
-"place": 34,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [],
-"date": "1901",
-"date_sdn": 2415386,
-"descr": "",
-"gid": "E0355",
-"media": [],
-"part_family": [],
-"part_person": [
-303
-],
-"place": 19,
-"text": "",
-"type": "Residence"
-},
-{
-"cita": [],
-"date": "1918",
-"date_sdn": 2421595,
-"descr": "",
-"gid": "E0348",
-"media": [],
-"part_family": [],
-"part_person": [
-303
-],
-"place": 34,
-"text": "",
-"type": "Residence"
-}
-],
+[],
+[],
 [
 {
 "cita": [],
@@ -4365,7 +3879,7 @@ I_events_0 = [
 "part_person": [
 304
 ],
-"place": 34,
+"place": 33,
 "text": "",
 "type": "Residence"
 }
@@ -4420,23 +3934,7 @@ I_events_0 = [
 "type": "Residence"
 }
 ],
-[
-{
-"cita": [],
-"date": "14 January 1889",
-"date_sdn": 2411017,
-"descr": "",
-"gid": "E0319",
-"media": [],
-"part_family": [],
-"part_person": [
-308
-],
-"place": 31,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [],
 [],
 [
@@ -4518,53 +4016,7 @@ I_events_0 = [
 "type": "Birth"
 }
 ],
-[
-{
-"cita": [],
-"date": "22 October 1894",
-"date_sdn": 2413124,
-"descr": "",
-"gid": "E0254",
-"media": [],
-"part_family": [],
-"part_person": [
-313
-],
-"place": 48,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [],
-"date": "31 March 1901",
-"date_sdn": 2415475,
-"descr": "Catherine Walsh Age 6",
-"gid": "E0007",
-"media": [],
-"part_family": [],
-"part_person": [
-313
-],
-"place": 28,
-"text": "",
-"type": "Census"
-},
-{
-"cita": [],
-"date": "2 April 1911",
-"date_sdn": 2419129,
-"descr": "Catherine Walsh Age 16",
-"gid": "E0008",
-"media": [],
-"part_family": [],
-"part_person": [
-313
-],
-"place": 21,
-"text": "",
-"type": "Census"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -4607,50 +4059,18 @@ I_events_0 = [
 "part_person": [
 314
 ],
-"place": 49,
+"place": 46,
 "text": "",
 "type": "Death"
 }
 ],
 [],
-[
-{
-"cita": [],
-"date": "25 March 1888",
-"date_sdn": 2410722,
-"descr": "",
-"gid": "E0249",
-"media": [],
-"part_family": [],
-"part_person": [
-316
-],
-"place": 28,
-"text": "",
-"type": "Birth"
-}
-],
-[
-{
-"cita": [],
-"date": "22 May 1890",
-"date_sdn": 2411510,
-"descr": "",
-"gid": "E0248",
-"media": [],
-"part_family": [],
-"part_person": [
-317
-],
-"place": 15,
-"text": "",
-"type": "Birth"
-}
-],
+[],
+[],
 [
 {
 "cita": [
-104
+102
 ],
 "date": "",
 "date_sdn": 0,
@@ -4667,7 +4087,7 @@ I_events_0 = [
 },
 {
 "cita": [
-105
+103
 ],
 "date": "",
 "date_sdn": 0,
