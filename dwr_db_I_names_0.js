@@ -1883,7 +1883,7 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Gerard Dunne",
 "given": "Gerard",
-"nick": "",
+"nick": "Gerry",
 "note": "",
 "suffix": "",
 "surnames": [
