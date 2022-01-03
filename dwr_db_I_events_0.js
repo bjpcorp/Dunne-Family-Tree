@@ -524,6 +524,21 @@ I_events_0 = [
 },
 {
 "cita": [],
+"date": "31 March 1901",
+"date_sdn": 2415475,
+"descr": "Margaret Henderson Age 4",
+"gid": "E0474",
+"media": [],
+"part_family": [],
+"part_person": [
+35
+],
+"place": 20,
+"text": "",
+"type": "Census"
+},
+{
+"cita": [],
 "date": "",
 "date_sdn": 0,
 "descr": "",
@@ -553,6 +568,21 @@ I_events_0 = [
 "place": -1,
 "text": "",
 "type": "Death"
+},
+{
+"cita": [],
+"date": "2 April 1911",
+"date_sdn": 2419129,
+"descr": "MargaretCampion Age 14",
+"gid": "E0475",
+"media": [],
+"part_family": [],
+"part_person": [
+35
+],
+"place": -1,
+"text": "",
+"type": "Census"
 }
 ],
 [
