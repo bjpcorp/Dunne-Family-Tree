@@ -124,7 +124,7 @@ I_urls_0 = [
 "uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/birth_returns/births_1867/03474/2276378.pdf"
 },
 {
-"descr": "Married 1895: Catherine Cody & Edmond Campion, Mother Margaret Cashin",
+"descr": "Married 1895: Catherine Cody & Edmond Campion, Mother Maggie Cashin ??",
 "type": "Web Home",
 "uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/marriage_returns/marriages_1895/10537/5838386.pdf"
 }
@@ -450,6 +450,11 @@ I_urls_0 = [
 }
 ],
 [
+{
+"descr": "Griffith Valuation 1849: James Henderson",
+"type": "Web Home",
+"uri": "http://www.askaboutireland.ie/griffith-valuation/index.xml?action=doNameSearch&PlaceID=674318&county=Kilkenny&barony=Galmoy&parish=Fertagh&townland=%3Cb%3ERathoscar%3C/b%3E"
+},
 {
 "descr": "Married 1869: James Henderson & Joanna Clark",
 "type": "Web Home",

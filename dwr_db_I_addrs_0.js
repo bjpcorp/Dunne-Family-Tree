@@ -429,7 +429,42 @@ I_addrs_0 = [
 [],
 [],
 [],
-[],
+[
+{
+"cita": [],
+"date": "27 January 1869",
+"date_sdn": 2403725,
+"location": [
+"",
+"Johnstown",
+"",
+"",
+"Kilkenny",
+"",
+"",
+"Ireland",
+""
+],
+"note": ""
+},
+{
+"cita": [],
+"date": "13 June 1871",
+"date_sdn": 2404592,
+"location": [
+"",
+"Ballyspellan",
+"",
+"",
+"Kilkenny",
+"",
+"",
+"Ireland",
+""
+],
+"note": ""
+}
+],
 [
 {
 "cita": [],
