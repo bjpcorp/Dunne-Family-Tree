@@ -112,7 +112,42 @@ I_addrs_0 = [
 [],
 [],
 [],
-[],
+[
+{
+"cita": [],
+"date": "2 April 1911",
+"date_sdn": 2419129,
+"location": [
+"House 1 in Rathoscar",
+"Glashane",
+"",
+"",
+"Kilkenny",
+"",
+"",
+"Ireland",
+""
+],
+"note": ""
+},
+{
+"cita": [],
+"date": "31 March 1901",
+"date_sdn": 2415475,
+"location": [
+"House 1 in Rathoscar",
+"Glashare",
+"",
+"",
+"Kilkenny",
+"",
+"",
+"Ireland",
+""
+],
+"note": ""
+}
+],
 [],
 [],
 [

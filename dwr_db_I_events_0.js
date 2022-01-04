@@ -721,23 +721,6 @@ I_events_0 = [
 ],
 [
 {
-"cita": [
-67
-],
-"date": "",
-"date_sdn": 0,
-"descr": "Estimated death date",
-"gid": "E0149",
-"media": [],
-"part_family": [],
-"part_person": [
-41
-],
-"place": -1,
-"text": "",
-"type": "Death"
-},
-{
 "cita": [],
 "date": "1846",
 "date_sdn": 2395298,
@@ -766,6 +749,23 @@ I_events_0 = [
 "place": 10,
 "text": "",
 "type": "Residence"
+},
+{
+"cita": [
+67
+],
+"date": "",
+"date_sdn": 0,
+"descr": "Estimated death date",
+"gid": "E0149",
+"media": [],
+"part_family": [],
+"part_person": [
+41
+],
+"place": -1,
+"text": "",
+"type": "Death"
 }
 ],
 [
@@ -805,21 +805,6 @@ I_events_0 = [
 [
 {
 "cita": [],
-"date": "",
-"date_sdn": 0,
-"descr": "",
-"gid": "E0231",
-"media": [],
-"part_family": [],
-"part_person": [
-44
-],
-"place": 49,
-"text": "",
-"type": "Residence"
-},
-{
-"cita": [],
 "date": "27 June 1867",
 "date_sdn": 2403145,
 "descr": "",
@@ -832,6 +817,21 @@ I_events_0 = [
 "place": 2,
 "text": "",
 "type": "Birth"
+},
+{
+"cita": [],
+"date": "",
+"date_sdn": 0,
+"descr": "",
+"gid": "E0231",
+"media": [],
+"part_family": [],
+"part_person": [
+44
+],
+"place": 49,
+"text": "",
+"type": "Residence"
 },
 {
 "cita": [],
