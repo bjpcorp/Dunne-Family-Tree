@@ -21,7 +21,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 18,
+"place": 19,
 "text": "",
 "type": "Marriage"
 }
@@ -36,7 +36,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 50,
+"place": 52,
 "text": "",
 "type": "Marriage"
 }
@@ -113,7 +113,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 45,
+"place": 47,
 "text": "",
 "type": "Marriage"
 }
@@ -136,7 +136,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 44,
+"place": 46,
 "text": "",
 "type": "Marriage"
 }
@@ -151,7 +151,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 51,
+"place": 53,
 "text": "",
 "type": "Marriage"
 }
@@ -166,7 +166,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 18,
+"place": 19,
 "text": "",
 "type": "Marriage"
 }
@@ -240,7 +240,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 54,
+"place": 56,
 "text": "",
 "type": "Marriage"
 }
@@ -261,7 +261,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 3,
+"place": 4,
 "text": "",
 "type": "Marriage"
 }
@@ -279,7 +279,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 45,
+"place": 47,
 "text": "",
 "type": "Marriage"
 }

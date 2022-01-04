@@ -2,6 +2,7 @@
 
 P_type_0 = [
 "Town",
+"Locality",
 "Region",
 "Parish",
 "Village",
@@ -38,6 +39,7 @@ P_type_0 = [
 "County",
 "Town",
 "Village",
+"Locality",
 "County",
 "Province",
 "Street",

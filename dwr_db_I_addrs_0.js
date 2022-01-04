@@ -65,7 +65,25 @@ I_addrs_0 = [
 "note": ""
 }
 ],
-[],
+[
+{
+"cita": [],
+"date": "2 April 1911",
+"date_sdn": 2419129,
+"location": [
+"House 2 in Tubbrid Upper",
+"Clamantagh",
+"",
+"",
+"Kilkenny",
+"",
+"",
+"Ireland",
+""
+],
+"note": ""
+}
+],
 [],
 [],
 [],
@@ -574,7 +592,25 @@ I_addrs_0 = [
 "note": ""
 }
 ],
-[],
+[
+{
+"cita": [],
+"date": "3 August 1877",
+"date_sdn": 2406835,
+"location": [
+"Ballaghcloneen",
+"Tullaroan",
+"",
+"",
+"Kilkenny",
+"",
+"",
+"Ireland",
+""
+],
+"note": ""
+}
+],
 [],
 [],
 [],

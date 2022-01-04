@@ -211,7 +211,7 @@ I_events_0 = [
 "part_person": [
 27
 ],
-"place": 27,
+"place": 28,
 "text": "",
 "type": "Residence"
 }
@@ -243,7 +243,7 @@ I_events_0 = [
 "part_person": [
 28
 ],
-"place": 49,
+"place": 51,
 "text": "",
 "type": "Residence"
 },
@@ -258,7 +258,7 @@ I_events_0 = [
 "part_person": [
 28
 ],
-"place": 48,
+"place": 50,
 "text": "",
 "type": "Residence"
 },
@@ -273,7 +273,7 @@ I_events_0 = [
 "part_person": [
 28
 ],
-"place": 20,
+"place": 21,
 "text": "",
 "type": "Census"
 },
@@ -288,7 +288,7 @@ I_events_0 = [
 "part_person": [
 28
 ],
-"place": 24,
+"place": 25,
 "text": "",
 "type": "Census"
 },
@@ -312,6 +312,21 @@ I_events_0 = [
 ],
 [
 {
+"cita": [],
+"date": "26 June 1906",
+"date_sdn": 2417388,
+"descr": "",
+"gid": "E0255",
+"media": [],
+"part_family": [],
+"part_person": [
+29
+],
+"place": -1,
+"text": "",
+"type": "Birth"
+},
+{
 "cita": [
 68
 ],
@@ -327,21 +342,6 @@ I_events_0 = [
 "place": -1,
 "text": "",
 "type": "Death"
-},
-{
-"cita": [],
-"date": "26 June 1906",
-"date_sdn": 2417388,
-"descr": "",
-"gid": "E0255",
-"media": [],
-"part_family": [],
-"part_person": [
-29
-],
-"place": -1,
-"text": "",
-"type": "Birth"
 }
 ],
 [],
@@ -358,7 +358,7 @@ I_events_0 = [
 "part_person": [
 32
 ],
-"place": 48,
+"place": 50,
 "text": "",
 "type": "Birth"
 },
@@ -373,7 +373,7 @@ I_events_0 = [
 "part_person": [
 32
 ],
-"place": 49,
+"place": 51,
 "text": "",
 "type": "Residence"
 },
@@ -388,7 +388,7 @@ I_events_0 = [
 "part_person": [
 32
 ],
-"place": 6,
+"place": 7,
 "text": "",
 "type": "Death"
 }
@@ -420,7 +420,7 @@ I_events_0 = [
 "part_person": [
 33
 ],
-"place": 49,
+"place": 51,
 "text": "",
 "type": "Residence"
 },
@@ -435,7 +435,7 @@ I_events_0 = [
 "part_person": [
 33
 ],
-"place": -1,
+"place": 38,
 "text": "",
 "type": "Death"
 }
@@ -486,7 +486,7 @@ I_events_0 = [
 "part_person": [
 35
 ],
-"place": 48,
+"place": 50,
 "text": "",
 "type": "Birth"
 },
@@ -501,7 +501,22 @@ I_events_0 = [
 "part_person": [
 35
 ],
-"place": 20,
+"place": 21,
+"text": "",
+"type": "Census"
+},
+{
+"cita": [],
+"date": "2 April 1911",
+"date_sdn": 2419129,
+"descr": "Margaret Campion Age 14",
+"gid": "E0475",
+"media": [],
+"part_family": [],
+"part_person": [
+35
+],
+"place": 25,
 "text": "",
 "type": "Census"
 },
@@ -516,7 +531,7 @@ I_events_0 = [
 "part_person": [
 35
 ],
-"place": 6,
+"place": 7,
 "text": "",
 "type": "Residence"
 },
@@ -536,21 +551,6 @@ I_events_0 = [
 "place": -1,
 "text": "",
 "type": "Death"
-},
-{
-"cita": [],
-"date": "2 April 1911",
-"date_sdn": 2419129,
-"descr": "MargaretCampion Age 14",
-"gid": "E0475",
-"media": [],
-"part_family": [],
-"part_person": [
-35
-],
-"place": -1,
-"text": "",
-"type": "Census"
 }
 ],
 [
@@ -699,7 +699,7 @@ I_events_0 = [
 "part_person": [
 40
 ],
-"place": 35,
+"place": 36,
 "text": "",
 "type": "Residence"
 },
@@ -714,7 +714,7 @@ I_events_0 = [
 "part_person": [
 40
 ],
-"place": 49,
+"place": 51,
 "text": "",
 "type": "Residence"
 }
@@ -746,7 +746,7 @@ I_events_0 = [
 "part_person": [
 41
 ],
-"place": 10,
+"place": 11,
 "text": "",
 "type": "Residence"
 },
@@ -780,7 +780,7 @@ I_events_0 = [
 "part_person": [
 42
 ],
-"place": 10,
+"place": 11,
 "text": "",
 "type": "Residence"
 }
@@ -797,7 +797,7 @@ I_events_0 = [
 "part_person": [
 43
 ],
-"place": 10,
+"place": 11,
 "text": "",
 "type": "Residence"
 }
@@ -814,7 +814,7 @@ I_events_0 = [
 "part_person": [
 44
 ],
-"place": 2,
+"place": 3,
 "text": "",
 "type": "Birth"
 },
@@ -829,7 +829,7 @@ I_events_0 = [
 "part_person": [
 44
 ],
-"place": 49,
+"place": 51,
 "text": "",
 "type": "Residence"
 },
@@ -844,7 +844,7 @@ I_events_0 = [
 "part_person": [
 44
 ],
-"place": 49,
+"place": 51,
 "text": "",
 "type": "Death"
 }
@@ -861,7 +861,7 @@ I_events_0 = [
 "part_person": [
 45
 ],
-"place": 35,
+"place": 36,
 "text": "",
 "type": "Residence"
 },
@@ -876,7 +876,7 @@ I_events_0 = [
 "part_person": [
 45
 ],
-"place": 49,
+"place": 51,
 "text": "",
 "type": "Residence"
 }
@@ -1310,7 +1310,7 @@ I_events_0 = [
 "part_person": [
 100
 ],
-"place": 53,
+"place": 55,
 "text": "",
 "type": "Death"
 }
@@ -1403,7 +1403,7 @@ I_events_0 = [
 "part_person": [
 107
 ],
-"place": 45,
+"place": 47,
 "text": "",
 "type": "Birth"
 },
@@ -1418,7 +1418,7 @@ I_events_0 = [
 "part_person": [
 107
 ],
-"place": 23,
+"place": 24,
 "text": "",
 "type": "Census"
 },
@@ -1456,7 +1456,7 @@ I_events_0 = [
 "part_person": [
 110
 ],
-"place": 45,
+"place": 47,
 "text": "",
 "type": "Birth"
 },
@@ -1471,7 +1471,7 @@ I_events_0 = [
 "part_person": [
 110
 ],
-"place": 23,
+"place": 24,
 "text": "",
 "type": "Census"
 },
@@ -1486,7 +1486,7 @@ I_events_0 = [
 "part_person": [
 110
 ],
-"place": 23,
+"place": 24,
 "text": "",
 "type": "Census"
 },
@@ -1503,7 +1503,7 @@ I_events_0 = [
 "part_person": [
 110
 ],
-"place": 13,
+"place": 14,
 "text": "",
 "type": "Death"
 }
@@ -1522,7 +1522,7 @@ I_events_0 = [
 "part_person": [
 113
 ],
-"place": 45,
+"place": 47,
 "text": "",
 "type": "Birth"
 },
@@ -1537,7 +1537,7 @@ I_events_0 = [
 "part_person": [
 113
 ],
-"place": 23,
+"place": 24,
 "text": "",
 "type": "Census"
 },
@@ -1669,7 +1669,7 @@ I_events_0 = [
 "part_person": [
 127
 ],
-"place": 45,
+"place": 47,
 "text": "",
 "type": "Birth"
 }
@@ -1702,7 +1702,7 @@ I_events_0 = [
 "part_person": [
 129
 ],
-"place": 53,
+"place": 55,
 "text": "",
 "type": "Residence"
 },
@@ -1717,7 +1717,7 @@ I_events_0 = [
 "part_person": [
 129
 ],
-"place": 53,
+"place": 55,
 "text": "",
 "type": "Death"
 }
@@ -1824,7 +1824,7 @@ I_events_0 = [
 "part_person": [
 135
 ],
-"place": 23,
+"place": 24,
 "text": "",
 "type": "Census"
 },
@@ -1839,7 +1839,7 @@ I_events_0 = [
 "part_person": [
 135
 ],
-"place": 23,
+"place": 24,
 "text": "",
 "type": "Census"
 },
@@ -1880,7 +1880,7 @@ I_events_0 = [
 "part_person": [
 143
 ],
-"place": 45,
+"place": 47,
 "text": "",
 "type": "Birth"
 },
@@ -1895,7 +1895,7 @@ I_events_0 = [
 "part_person": [
 143
 ],
-"place": 23,
+"place": 24,
 "text": "",
 "type": "Census"
 },
@@ -2020,7 +2020,7 @@ I_events_0 = [
 "part_person": [
 150
 ],
-"place": 46,
+"place": 48,
 "text": "",
 "type": "Residence"
 },
@@ -2035,7 +2035,7 @@ I_events_0 = [
 "part_person": [
 150
 ],
-"place": 23,
+"place": 24,
 "text": "",
 "type": "Census"
 },
@@ -2052,7 +2052,7 @@ I_events_0 = [
 "part_person": [
 150
 ],
-"place": 46,
+"place": 48,
 "text": "",
 "type": "Death"
 }
@@ -2069,7 +2069,7 @@ I_events_0 = [
 "part_person": [
 151
 ],
-"place": 45,
+"place": 47,
 "text": "",
 "type": "Birth"
 },
@@ -2442,7 +2442,7 @@ I_events_0 = [
 "part_person": [
 179
 ],
-"place": 5,
+"place": 6,
 "text": "",
 "type": "Residence"
 },
@@ -2457,7 +2457,7 @@ I_events_0 = [
 "part_person": [
 179
 ],
-"place": 5,
+"place": 6,
 "text": "",
 "type": "Residence"
 },
@@ -2491,7 +2491,7 @@ I_events_0 = [
 "part_person": [
 180
 ],
-"place": 5,
+"place": 6,
 "text": "",
 "type": "Birth"
 },
@@ -2506,7 +2506,7 @@ I_events_0 = [
 "part_person": [
 180
 ],
-"place": 27,
+"place": 28,
 "text": "",
 "type": "Residence"
 },
@@ -2521,7 +2521,7 @@ I_events_0 = [
 "part_person": [
 180
 ],
-"place": 5,
+"place": 6,
 "text": "",
 "type": "Death"
 }
@@ -2669,7 +2669,7 @@ I_events_0 = [
 "part_person": [
 189
 ],
-"place": 5,
+"place": 6,
 "text": "",
 "type": "Birth"
 },
@@ -2684,7 +2684,7 @@ I_events_0 = [
 "part_person": [
 189
 ],
-"place": 5,
+"place": 6,
 "text": "",
 "type": "Residence"
 },
@@ -2770,7 +2770,7 @@ I_events_0 = [
 "part_person": [
 192
 ],
-"place": 28,
+"place": 29,
 "text": "",
 "type": "Census"
 },
@@ -2785,7 +2785,7 @@ I_events_0 = [
 "part_person": [
 192
 ],
-"place": 21,
+"place": 22,
 "text": "",
 "type": "Census"
 },
@@ -3084,7 +3084,7 @@ I_events_0 = [
 "part_person": [
 217
 ],
-"place": 23,
+"place": 24,
 "text": "",
 "type": "Census"
 },
@@ -3099,7 +3099,7 @@ I_events_0 = [
 "part_person": [
 217
 ],
-"place": 23,
+"place": 24,
 "text": "",
 "type": "Census"
 },
@@ -3148,7 +3148,7 @@ I_events_0 = [
 "part_person": [
 218
 ],
-"place": -1,
+"place": 1,
 "text": "",
 "type": "Death"
 }
@@ -3184,7 +3184,7 @@ I_events_0 = [
 "part_person": [
 223
 ],
-"place": 4,
+"place": 5,
 "text": "",
 "type": "Residence"
 },
@@ -3199,7 +3199,7 @@ I_events_0 = [
 "part_person": [
 223
 ],
-"place": 42,
+"place": 44,
 "text": "",
 "type": "Residence"
 },
@@ -3214,7 +3214,7 @@ I_events_0 = [
 "part_person": [
 223
 ],
-"place": 25,
+"place": 26,
 "text": "",
 "type": "Residence"
 },
@@ -3229,7 +3229,7 @@ I_events_0 = [
 "part_person": [
 223
 ],
-"place": 29,
+"place": 30,
 "text": "",
 "type": "Residence"
 }
@@ -3246,7 +3246,7 @@ I_events_0 = [
 "part_person": [
 224
 ],
-"place": 4,
+"place": 5,
 "text": "",
 "type": "Residence"
 },
@@ -3417,7 +3417,7 @@ I_events_0 = [
 "part_person": [
 248
 ],
-"place": 43,
+"place": 45,
 "text": "",
 "type": "Residence"
 },
@@ -3432,7 +3432,7 @@ I_events_0 = [
 "part_person": [
 248
 ],
-"place": 22,
+"place": 23,
 "text": "",
 "type": "Residence"
 }
@@ -3470,7 +3470,7 @@ I_events_0 = [
 "part_person": [
 255
 ],
-"place": 22,
+"place": 23,
 "text": "",
 "type": "Residence"
 },
@@ -3485,7 +3485,7 @@ I_events_0 = [
 "part_person": [
 255
 ],
-"place": 22,
+"place": 23,
 "text": "",
 "type": "Residence"
 }
@@ -3518,7 +3518,7 @@ I_events_0 = [
 "part_person": [
 257
 ],
-"place": 22,
+"place": 23,
 "text": "",
 "type": "Residence"
 }
@@ -3535,7 +3535,7 @@ I_events_0 = [
 "part_person": [
 258
 ],
-"place": 43,
+"place": 45,
 "text": "",
 "type": "Residence"
 }
@@ -3658,7 +3658,7 @@ I_events_0 = [
 "part_person": [
 288
 ],
-"place": 22,
+"place": 23,
 "text": "",
 "type": "Residence"
 },
@@ -3673,7 +3673,7 @@ I_events_0 = [
 "part_person": [
 288
 ],
-"place": 7,
+"place": 8,
 "text": "",
 "type": "Residence"
 },
@@ -3688,7 +3688,7 @@ I_events_0 = [
 "part_person": [
 288
 ],
-"place": 22,
+"place": 23,
 "text": "",
 "type": "Residence"
 }
@@ -3724,7 +3724,7 @@ I_events_0 = [
 "part_person": [
 291
 ],
-"place": 50,
+"place": 52,
 "text": "",
 "type": "Birth"
 },
@@ -3754,7 +3754,7 @@ I_events_0 = [
 "part_person": [
 291
 ],
-"place": 24,
+"place": 25,
 "text": "",
 "type": "Census"
 }
@@ -3774,7 +3774,7 @@ I_events_0 = [
 "part_person": [
 295
 ],
-"place": 33,
+"place": 34,
 "text": "",
 "type": "Residence"
 }
@@ -3849,7 +3849,7 @@ I_events_0 = [
 "part_person": [
 304
 ],
-"place": 19,
+"place": 20,
 "text": "",
 "type": "Residence"
 },
@@ -3864,7 +3864,7 @@ I_events_0 = [
 "part_person": [
 304
 ],
-"place": 26,
+"place": 27,
 "text": "",
 "type": "Residence"
 },
@@ -3879,7 +3879,7 @@ I_events_0 = [
 "part_person": [
 304
 ],
-"place": 33,
+"place": 34,
 "text": "",
 "type": "Residence"
 }
@@ -3897,7 +3897,7 @@ I_events_0 = [
 "part_person": [
 306
 ],
-"place": 31,
+"place": 32,
 "text": "",
 "type": "Residence"
 }
@@ -3929,7 +3929,7 @@ I_events_0 = [
 "part_person": [
 307
 ],
-"place": 19,
+"place": 20,
 "text": "",
 "type": "Residence"
 }
@@ -3964,7 +3964,7 @@ I_events_0 = [
 "part_person": [
 311
 ],
-"place": 4,
+"place": 5,
 "text": "",
 "type": "Residence"
 },
@@ -3979,7 +3979,7 @@ I_events_0 = [
 "part_person": [
 311
 ],
-"place": 25,
+"place": 26,
 "text": "",
 "type": "Residence"
 },
@@ -3994,7 +3994,7 @@ I_events_0 = [
 "part_person": [
 311
 ],
-"place": 29,
+"place": 30,
 "text": "",
 "type": "Residence"
 }
@@ -4044,7 +4044,7 @@ I_events_0 = [
 "part_person": [
 314
 ],
-"place": 28,
+"place": 29,
 "text": "",
 "type": "Census"
 },
@@ -4059,7 +4059,7 @@ I_events_0 = [
 "part_person": [
 314
 ],
-"place": 46,
+"place": 48,
 "text": "",
 "type": "Death"
 }

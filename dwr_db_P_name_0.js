@@ -2,6 +2,7 @@
 
 P_name_0 = [
 "Abbeyleix, Laois, Leinster, Ireland",
+"Ballaghcloneen, Tullaroan, Kilkenny, Leinster, Ireland",
 "Balleen, Crannagh, Kilkenny, Leinster, Ireland",
 "Balleen, Urlingford, Galmoy, Kilkenny, Leinster, Ireland",
 "Ballinakill, Laois, Leinster, Ireland",
@@ -38,6 +39,7 @@ P_name_0 = [
 "Kilkenny, Leinster, Ireland",
 "Killoshulan, Balleen, Crannagh, Kilkenny, Leinster, Ireland",
 "Kilmaganny, Kilkenny, Leinster, Ireland",
+"Kyle, Freshford, Kilkenny, Leinster, Ireland",
 "Laois, Leinster, Ireland",
 "Leinster, Ireland",
 "Main Street, Urlingford, Galmoy, Kilkenny, Leinster, Ireland",
