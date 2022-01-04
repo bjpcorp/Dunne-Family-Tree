@@ -313,7 +313,14 @@ I_attr_0 = [
 "value": "Healer"
 }
 ],
-[],
+[
+{
+"cita": [],
+"note": "",
+"type": "Occupation",
+"value": "Shopkeeper"
+}
+],
 [],
 [],
 [],

@@ -476,7 +476,28 @@ I_urls_0 = [
 "uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/marriage_returns/marriages_1924/09156/5311629.pdf"
 }
 ],
-[],
+[
+{
+"descr": "Birth Record: James Henderson III 1871 ??",
+"type": "Web Home",
+"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/birth_returns/births_1871/03296/2207993.pdf"
+},
+{
+"descr": "Birth Record: James Henderson III 1874 ??",
+"type": "Web Home",
+"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/birth_returns/births_1874/03148/2154777.pdf"
+},
+{
+"descr": "Birth Record: James Henderson IIII",
+"type": "Web Home",
+"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/birth_returns/births_1902/01921/1744510.pdf"
+},
+{
+"descr": "Death Record: James Henderson III 1926 ??",
+"type": "Web Home",
+"uri": "https://civilrecords.irishgenealogy.ie/churchrecords/images/deaths_returns/deaths_1926/04985/4359528.pdf"
+}
+],
 [],
 [],
 [],

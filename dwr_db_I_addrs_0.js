@@ -430,7 +430,25 @@ I_addrs_0 = [
 [],
 [],
 [],
-[],
+[
+{
+"cita": [],
+"date": "31 March 1901",
+"date_sdn": 2415475,
+"location": [
+"House 7 Main Street",
+"Urlingford",
+"",
+"",
+"Kilkenny",
+"",
+"",
+"Ireland",
+""
+],
+"note": ""
+}
+],
 [],
 [],
 [],
