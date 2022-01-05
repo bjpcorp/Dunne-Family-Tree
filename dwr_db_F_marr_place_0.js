@@ -90,7 +90,7 @@ F_marr_place_0 = [
 "",
 "",
 "",
-"Windgap Chapel, Kilmaganny, Kilkenny, Leinster, Ireland",
+"Windgap Chapel, Kilmoganny, Kilkenny, Leinster, Ireland",
 "",
 "",
 "",

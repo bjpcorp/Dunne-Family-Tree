@@ -38,7 +38,7 @@ P_name_0 = [
 "Kilcronan, Ballinakill, Laois, Leinster, Ireland",
 "Kilkenny, Leinster, Ireland",
 "Killoshulan, Balleen, Crannagh, Kilkenny, Leinster, Ireland",
-"Kilmaganny, Kilkenny, Leinster, Ireland",
+"Kilmoganny, Kilkenny, Leinster, Ireland",
 "Kyle, Freshford, Kilkenny, Leinster, Ireland",
 "Laois, Leinster, Ireland",
 "Leinster, Ireland",
@@ -46,7 +46,7 @@ P_name_0 = [
 "Munster, Ireland",
 "Odagh, Freshford, Kilkenny, Leinster, Ireland",
 "Raggettstown, Ballymullen, Abbeyleix, Laois, Leinster, Ireland",
-"Rossenarra, Kilmaganny, Kilkenny, Leinster, Ireland",
+"Rossenarra, Kilmoganny, Kilkenny, Leinster, Ireland",
 "Templemore Thurles, Tipperary, Munster, Ireland",
 "Threecastles Parish, Threecastles, Odagh, Freshford, Kilkenny, Leinster, Ireland",
 "Threecastles, Odagh, Freshford, Kilkenny, Leinster, Ireland",
@@ -57,6 +57,6 @@ P_name_0 = [
 "Urlingford Catholic Parish, Urlingford, Galmoy, Kilkenny, Leinster, Ireland",
 "Urlingford, Galmoy, Kilkenny, Leinster, Ireland",
 "Watercastle, Durrow, Laois, Leinster, Ireland",
-"Windgap Chapel, Kilmaganny, Kilkenny, Leinster, Ireland"
+"Windgap Chapel, Kilmoganny, Kilkenny, Leinster, Ireland"
 ]
 Dwr.ScriptLoaded('dwr_db_P_name_0.js');
