@@ -72,7 +72,7 @@ function BodyDecorate()
 	if (Dwr.search.IncChangeTime) ct = '<p id="dwr-change-time" class="dwr-change-time">';
 	if ((FOOTER + COPYRIGHT) != '') $('body').append(
 		'<div id="dwr-footer" class="panel-footer">' +
-		FOOTER + COPYRIGHT + ct +
+		FOOTER + ct + COPYRIGHT  +
 		'</div>');
 
 	// Create embedded search forms
