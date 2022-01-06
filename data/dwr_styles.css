@@ -57,8 +57,9 @@ li p {
     height: 36px
   }
   #dwr-footer p {
-    margin: 0px;
-  }
+      margin: 0px;
+      display: table-cell;
+      width: 25%;
 }
 .copyright {
   line-height: 5px;
