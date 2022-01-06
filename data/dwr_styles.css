@@ -46,6 +46,8 @@ li p {
   #dwr-header,
   #dwr-footer {
     display: inherit;
+    position: absolute;
+    bottom: 0;
     padding: 0px 10px;
     overflow-y: hidden;
   }
