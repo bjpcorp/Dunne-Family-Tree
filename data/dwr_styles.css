@@ -262,6 +262,9 @@ li p {
 .dwr-search {
   height: auto;
 }
+.dwr-change-time {
+  line-height: 36px;
+}
 /*===================================================== Map */
 #gmap_canvas {
   height: 330px;
