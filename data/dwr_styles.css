@@ -46,14 +46,14 @@ li p {
   #dwr-header,
   #dwr-footer {
     display: inherit;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
     padding: 0px 10px;
     overflow-y: hidden;
   }
   #dwr-footer {
     font-size: 12px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
   }
   #dwr-footer p {
     margin: 0px;
