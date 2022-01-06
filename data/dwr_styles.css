@@ -58,8 +58,6 @@ li p {
   }
   #dwr-footer p {
       margin: 0px;
-      display: table-cell;
-      width: 25%;
 }
 .copyright {
   line-height: 36px;
@@ -263,6 +261,7 @@ li p {
   height: auto;
 }
 .dwr-change-time {
+  float: left;
   line-height: 36px;
 }
 /*===================================================== Map */
