@@ -48,6 +48,7 @@ li p {
     display: inherit;
     position: absolute;
     bottom: 0;
+    width: 100%;
     padding: 0px 10px;
     overflow-y: hidden;
   }
