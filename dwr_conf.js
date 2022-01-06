@@ -198,7 +198,7 @@ __ = {
 "Parents": "Parents",
 "Path": "Path",
 "Person page": "Person page",
-"Search Name...": "Search Name",
+"Search Name": "Search Name",
 "Person": "Person",
 "Persons Index": "Persons Index",
 "Persons": "Persons",
