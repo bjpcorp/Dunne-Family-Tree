@@ -39,7 +39,6 @@ li p {
 }
 #dwr-header,
 #dwr-footer {
-  position: absolute;
   display: none;
   bottom: 0;
 }
