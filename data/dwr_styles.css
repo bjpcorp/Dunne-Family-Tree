@@ -276,6 +276,9 @@ li p {
   float: left;
   line-height: 36px;
 }
+.container {
+  margin-bottom: 72px; /* Margin bottom by footer height */
+}
 /*===================================================== Map */
 #gmap_canvas {
   height: 330px;
