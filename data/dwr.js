@@ -3921,7 +3921,7 @@ function HomePage()
 {
 	var html = '';
 	html += '<h1>' + TITLE + '</h1>';
-	html += '<p>';
+	html += '<div class="row"><ul class="list-group index-list">';
 	var tables = [
 		["N", "surnames.html"],
         ["I", "persons.html"],
@@ -3937,12 +3937,12 @@ function HomePage()
 		var j = $.inArray(tables[i][1], PAGES_FILE_INDEX);
 		if (j == -1) continue;
 		html += sep
-		html +=	'<a href="' + tables[i][1] + '?' + Dwr.BuildSearchString() + '">';
-		html +=	PAGES_TITLE_INDEX[j] + ': ' + DB_SIZES[tables[i][0]];
-		html +=	'</a>';
+		html +=	'<li class="list-group-item d-flex justify-content-between align-items-center"><a href="' + tables[i][1] + '?' + Dwr.BuildSearchString() + '">';
+		html +=	PAGES_TITLE_INDEX[j];
+		html +=	'</span></a>' + '<span class="badge badge-primary badge-pill text-right">' + DB_SIZES[tables[i][0]];
 		sep = '<br>';
 	}
-	html += '<br> <p>' + Dwr.embedSearchText() + '<p>';
+	html += '<br> </ul>' + Dwr.embedSearchText() + '<p></div>';
 	return html;
 }
 
