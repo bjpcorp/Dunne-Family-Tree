@@ -3169,7 +3169,7 @@ I_events_0 = [
 "part_person": [
 223
 ],
-"place": -1,
+"place": 35,
 "text": "",
 "type": "Birth"
 },
@@ -3232,6 +3232,21 @@ I_events_0 = [
 "place": 30,
 "text": "",
 "type": "Residence"
+},
+{
+"cita": [],
+"date": "",
+"date_sdn": 0,
+"descr": "",
+"gid": "E0477",
+"media": [],
+"part_family": [],
+"part_person": [
+223
+],
+"place": -1,
+"text": "",
+"type": "Death"
 }
 ],
 [
@@ -3949,7 +3964,7 @@ I_events_0 = [
 "part_person": [
 311
 ],
-"place": -1,
+"place": 35,
 "text": "",
 "type": "Birth"
 },
@@ -4064,7 +4079,38 @@ I_events_0 = [
 "type": "Death"
 }
 ],
-[],
+[
+{
+"cita": [],
+"date": "20 May 1918",
+"date_sdn": 2421734,
+"descr": "",
+"gid": "E0269",
+"media": [],
+"part_family": [],
+"part_person": [
+315
+],
+"place": 47,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "",
+"date_sdn": 0,
+"descr": "",
+"gid": "E0476",
+"media": [],
+"part_family": [],
+"part_person": [
+315
+],
+"place": -1,
+"text": "",
+"type": "Death"
+}
+],
 [],
 [],
 [

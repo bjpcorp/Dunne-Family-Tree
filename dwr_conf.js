@@ -4,7 +4,7 @@ DWR_VERSION_410 = true;
 DWR_VERSION_412 = true;
 DWR_VERSION_420 = true;
 DWR_VERSION_500 = true;
-TITLE = "Dunne / Phelan Family Tree";
+TITLE = "Dunne | Phelan Family Tree";
 SPLIT = 5000;
 DB_SIZES = {
     "C": 115,
@@ -57,19 +57,19 @@ GRAMPS_PREFERENCES['border-male-alive'] = "['#1f4986', '#171d26']";
 GRAMPS_PREFERENCES['border-male-dead'] = "['#000000', '#000000']";
 GRAMPS_PREFERENCES['border-unknown-alive'] = "['#8e5801', '#8e5801']";
 GRAMPS_PREFERENCES['border-unknown-dead'] = "['#000000', '#000000']";
-GRAMPS_PREFERENCES['female-alive'] = "['#feccf0', '#62242D']";
+GRAMPS_PREFERENCES['female-alive'] = "['#feccf0', '#62242d']";
 GRAMPS_PREFERENCES['female-dead'] = "['#feccf0', '#3a292b']";
 GRAMPS_PREFERENCES['male-alive'] = "['#b8cee6', '#1f344a']";
 GRAMPS_PREFERENCES['male-dead'] = "['#b8cee6', '#2d3039']";
-GRAMPS_PREFERENCES['unknown-alive'] = "['#f3dbb6', '#75507B']";
+GRAMPS_PREFERENCES['unknown-alive'] = "['#f3dbb6', '#75507b']";
 GRAMPS_PREFERENCES['unknown-dead'] = "['#f3dbb6', '#35103b']";
 SVG_TREE_COLOR_SCHEME0 = ["#ffffff", "#ffffff"];
 SVG_TREE_COLOR_SCHEME1 = ["#ff3f00", "#ffaf0f", "#ffdf57", "#ffff6f", "#9fff9f", "#6fd7ff", "#4f97ff", "#e717ff", "#e71779", "#d2aa7c", "#bd9970"];
 SVG_TREE_COLOR_SCHEME2 = ["#e5bffc", "#bfbffc", "#bfdefc", "#b7dbc5", "#cef6d1"];
-FOOTER="<div class=\"grampsstylednote\">\n<a href=\"https://www.facebook.com/groups/222068107818897\" target=\"_blank\" style=\"float:right;height: 16px;padding-top: 10px;padding-bottom: 10px;\">\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-facebook\" viewBox=\"0 0 16 16\">\n  <path d=\"M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z\"/>\n</svg>\n</a>\n</div>";
+FOOTER="<div class=\"grampsstylednote\">\n<a href=\"https://www.facebook.com/groups/222068107818897\" target=\"_blank\" style=\"float:right;height: 16px;padding-top: 10px;padding-bottom: 10px;\">\n<svg aria-labelledby=\"simpleicons-github-icon\" role=\"img\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"simpleicons-github-icon\">GitHub icon</title><path d=\"M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12\"/></svg>\n</a>\n\n\n<a href=\"https://www.facebook.com/groups/222068107818897\" target=\"_blank\" style=\"float:right;height: 16px;padding-top: 10px;padding-bottom: 10px;\">\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-facebook\" viewBox=\"0 0 16 16\">\n  <path d=\"M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z\"/>\n</svg>\n</a>\n</div>";
 HEADER="<div class=\"grampsstylednote\">\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-4PEH173Y4X\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag(\'js\', new Date());\n\n  gtag(\'config\', \'G-4PEH173Y4X\');\n</script>\n\n</div>";
 BRAND_TITLE="<div class=\"grampsstylednote\">\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" fill=\"000000\" class=\"bi bi-diagram-3-fill\" viewBox=\"0 0 16 16\">\n  <path fill-rule=\"evenodd\" d=\"M6 3.5A1.5 1.5 0 0 1 7.5 2h1A1.5 1.5 0 0 1 10 3.5v1A1.5 1.5 0 0 1 8.5 6v1H14a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-1 0V8h-5v.5a.5.5 0 0 1-1 0V8h-5v.5a.5.5 0 0 1-1 0v-1A.5.5 0 0 1 2 7h5.5V6A1.5 1.5 0 0 1 6 4.5v-1zm-6 8A1.5 1.5 0 0 1 1.5 10h1A1.5 1.5 0 0 1 4 11.5v1A1.5 1.5 0 0 1 2.5 14h-1A1.5 1.5 0 0 1 0 12.5v-1zm6 0A1.5 1.5 0 0 1 7.5 10h1a1.5 1.5 0 0 1 1.5 1.5v1A1.5 1.5 0 0 1 8.5 14h-1A1.5 1.5 0 0 1 6 12.5v-1zm6 0a1.5 1.5 0 0 1 1.5-1.5h1a1.5 1.5 0 0 1 1.5 1.5v1a1.5 1.5 0 0 1-1.5 1.5h-1a1.5 1.5 0 0 1-1.5-1.5v-1z\"/>\n</svg>\n</div>";
-COPYRIGHT="<p class=\'copyright text-center text-muted\'>&copy; 2022 Barrie Phelan</p>";
+COPYRIGHT="<p class=\'copyright\'>&copy; 2022 Barrie Phelan</p>";
 INDEX_SURNAMES_TYPE=true;
 INDEX_PERSONS_TYPE=true;
 INDEX_FAMILIES_TYPE=true;
@@ -198,7 +198,7 @@ __ = {
 "Parents": "Parents",
 "Path": "Path",
 "Person page": "Person page",
-"Search Person...": "Search Person...",
+"Person to search for": "Person to search for",
 "Person": "Person",
 "Persons Index": "Persons Index",
 "Persons": "Persons",

@@ -1718,14 +1718,13 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Cosmas Dunne Loong",
+"full": "Cosmas Dunne",
 "given": "Cosmas",
 "nick": "",
 "note": "",
 "suffix": "",
 "surnames": [
-"Dunne",
-"Loong"
+"Dunne"
 ],
 "title": "",
 "type": "Birth Name"
@@ -2475,13 +2474,12 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Niamh Stephanie Ballard Dunne",
+"full": "Niamh Stephanie Dunne",
 "given": "Niamh Stephanie",
 "nick": "",
 "note": "",
 "suffix": "",
 "surnames": [
-"Ballard",
 "Dunne"
 ],
 "title": "",

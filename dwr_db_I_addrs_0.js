@@ -647,6 +647,42 @@ I_addrs_0 = [
 [],
 [],
 [],
+[
+{
+"cita": [],
+"date": "1901",
+"date_sdn": 2415386,
+"location": [
+"House 2 Baunreagh",
+"Kilmaganny",
+"",
+"",
+"Kilkenny",
+"",
+"",
+"Ireland",
+""
+],
+"note": ""
+},
+{
+"cita": [],
+"date": "1911",
+"date_sdn": 2419038,
+"location": [
+"House 2 Baunreagh",
+"Kilmaganny",
+"",
+"",
+"Kilkenny",
+"",
+"",
+"Ireland",
+""
+],
+"note": ""
+}
+],
 [],
 [],
 [],
@@ -679,6 +715,25 @@ I_addrs_0 = [
 [],
 [],
 [],
+[
+{
+"cita": [],
+"date": "2 April 1911",
+"date_sdn": 2419129,
+"location": [
+"House 2 Baunreagh",
+"Kilmaganny",
+"",
+"",
+"Kilkenny",
+"",
+"",
+"Ireland",
+""
+],
+"note": ""
+}
+],
 [],
 [],
 [],
@@ -694,16 +749,119 @@ I_addrs_0 = [
 [],
 [],
 [],
+[
+{
+"cita": [],
+"date": "1886",
+"date_sdn": 2409908,
+"location": [
+"Ironmills",
+"Abbeyleix",
+"",
+"",
+"Queen's",
+"",
+"",
+"Ireland",
+""
+],
+"note": ""
+},
+{
+"cita": [],
+"date": "1901",
+"date_sdn": 2415386,
+"location": [
+"House 1 Kilcronan",
+"Ballinakill",
+"",
+"",
+"Queen's",
+"",
+"",
+"Ireland",
+""
+],
+"note": ""
+},
+{
+"cita": [],
+"date": "1911",
+"date_sdn": 2419038,
+"location": [
+"House 7 Kilcronan",
+"Ballinakill",
+"",
+"",
+"Queen's",
+"",
+"",
+"Ireland",
+""
+],
+"note": ""
+}
+],
+[],
+[],
+[
+{
+"cita": [],
+"date": "1901",
+"date_sdn": 2415386,
+"location": [
+"House 1 Kilcronan",
+"Ballinakill",
+"",
+"",
+"Queen's",
+"",
+"",
+"Ireland",
+""
+],
+"note": ""
+}
+],
 [],
 [],
 [],
-[],
-[],
-[],
-[],
-[],
-[],
-[],
+[
+{
+"cita": [],
+"date": "1901",
+"date_sdn": 2415386,
+"location": [
+"House 6 Raggettstown",
+"Ballinakill",
+"",
+"",
+"Queen's",
+"",
+"",
+"Ireland",
+""
+],
+"note": ""
+},
+{
+"cita": [],
+"date": "1911",
+"date_sdn": 2419038,
+"location": [
+"House 9 Ballymullen",
+"Abbeyleix",
+"",
+"",
+"Queen's",
+"",
+"",
+"Ireland",
+""
+],
+"note": ""
+}
+],
 [],
 [],
 [
