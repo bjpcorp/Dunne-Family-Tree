@@ -3921,7 +3921,7 @@ function HomePage()
 {
 	var html = '';
 	html += '<h1>' + TITLE + '</h1>';
-	html += '<div class="row"><ul class="list-group index-list">';
+	html += '<div class="col-md-6"><ul class="list-group index-list">';
 	var tables = [
 		["N", "surnames.html"],
         ["I", "persons.html"],
@@ -3943,6 +3943,7 @@ function HomePage()
 		sep = '<br>';
 	}
 	html += '<br> </ul>' + Dwr.embedSearchText() + '<p></div>';
+	html += '<div clacss="col-md-6"><img src="https://dunnesofkilkenny.files.wordpress.com/2016/05/capture.png"></div>'
 	return html;
 }
 

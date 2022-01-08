@@ -53,7 +53,7 @@ function BodyDecorate()
 	if (Dwr.search.MapExpanded) menuless = true;
 
 	// Build the div for the body content
-	$('body').wrapInner('<div id="body-page" class="container"></div>');
+	$('body').wrapInner('<div id="body-page" class="container footer-margin"></div>');
 
 	// Build menu if any
 	if (!menuless)

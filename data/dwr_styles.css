@@ -276,7 +276,7 @@ li p {
   float: left;
   line-height: 36px;
 }
-.container {
+.footer-margin {
   margin-bottom: 72px; /* Margin bottom by footer height */
 }
 /*===================================================== Map */
