@@ -3946,7 +3946,7 @@ function HomePage()
 		sep = '<br>';
 	}
 	html += '<br> </ul>' + Dwr.embedSearchText() + '<p></div>';
-	html += '<div class="col-md-8"><img class="img-fluid center-block" src="https://raw.githubusercontent.com/bjpcorp/Dunne-Phelan-Family-Tree/main/heraldry-dunne-phelan.png"></div>'
+	html += '<div class="col-md-auto"><img class="img-fluid center-block" src="https://raw.githubusercontent.com/bjpcorp/Dunne-Phelan-Family-Tree/main/heraldry-dunne-phelan.png"></div>'
 	return html;
 }
 
