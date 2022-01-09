@@ -3924,7 +3924,7 @@ function HomePage()
 	html += '<h1>' + TITLE + '</h1>';
 	html += '<p class="lead">Select a family member to view info & tree branches.</p>';
 	html += '</div>';
-	html += '<div class="row"><div class="col-md-4">';
+	html += '<div class="row"><div class="col-xs-6 col-md-4">';
 	html += '<ul class="list-group index-list">';
 	var tables = [
 		["N", "surnames.html"],
@@ -3941,13 +3941,17 @@ function HomePage()
 		var j = $.inArray(tables[i][1], PAGES_FILE_INDEX);
 		if (j == -1) continue;
 		html += sep
-		html +=	'<li class="list-group-item d-flex justify-content-between align-items-center"><a href="' + tables[i][1] + '?' + Dwr.BuildSearchString() + '">';
+		html +=	'<li class="list-group-item d-flex justify-content-between align-items-center">';
+		html +=	'<a href="' + tables[i][1] + '?' + Dwr.BuildSearchString() + '">';
 		html +=	PAGES_TITLE_INDEX[j];
-		html +=	'</span></a>' + '<span class="badge badge-primary badge-pill text-right">' + DB_SIZES[tables[i][0]];
-		sep = '<br>';
+		html +=	'</a>' + '<span class="badge badge-primary badge-pill text-right">' + DB_SIZES[tables[i][0]];
+		sep = '</span><br></li>';
 	}
-	html += '<br> </ul>' + Dwr.embedSearchText() + '</div>';
-	html += '<div class="col-md-auto"><img class="img-fluid center-block" src="https://raw.githubusercontent.com/bjpcorp/Dunne-Phelan-Family-Tree/main/heraldry-dunne-phelan.png"></div></div>'
+	html += '</ul>' + Dwr.embedSearchText() + '</div>';
+	//========== index.html images
+	html += '<div class="col-xs-6 col-md-4"><a href="https://bjpcorp.github.io/Dunne-Phelan-Family-Tree/search.html?p=index.html&stxt=dunne" ><img class="img-fluid" src="https://raw.githubusercontent.com/bjpcorp/Dunne-Phelan-Family-Tree/main/dunne-shield.svg"></a></div>';
+	html += '<div class="col-xs-6 col-md-4"><a href="https://bjpcorp.github.io/Dunne-Phelan-Family-Tree/search.html?p=index.html&stxt=phelan"><img class="img-fluid" src="https://raw.githubusercontent.com/bjpcorp/Dunne-Phelan-Family-Tree/main/phelan-shield.svg"></a></div>';
+	html += '</div></div>';
 	return html;
 }
 
