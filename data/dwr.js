@@ -3922,7 +3922,7 @@ function HomePage()
 	var html = '';
 	html += '<div class="jumbotron">';
 	html += '<h1>' + TITLE + '</h1>';
-	html += '<p class="lead">Search Person and view the family tree.</p>';
+	html += '<p class="lead">Search & select a family member to view their tree branch.</p>';
 	html += '</div>';
 	html += '<div class="col-md-6"><ul class="list-group index-list">';
 	var tables = [
