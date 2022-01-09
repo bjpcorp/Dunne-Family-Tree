@@ -3924,7 +3924,7 @@ function HomePage()
 	html += '<h1>' + TITLE + '</h1>';
 	html += '<p class="lead">Select a family member to view info & tree branches.</p>';
 	html += '</div>';
-	html += '<div class="row"><div class="col-xs-12 col-sm-12 col-md-6">';
+	html += '<div class="row"><div class="col-xs-12 col-sm-4 col-md-4">';
 	html += '<ul class="list-group index-list">';
 	var tables = [
 		["N", "surnames.html"],
