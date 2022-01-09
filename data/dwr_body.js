@@ -695,12 +695,11 @@ function BuildMenu()
 	$('body').prepend(txt_menu);
 }
 
-
 function embedSearchText()
 {
 	// Build the embedded search input form
 	var txt_form = '';
-	txt_form += '<form class="form-inline" role="search" onsubmit="return Dwr.FsearchExec(' + nbSearchForms + ')">';
+	txt_form += '<form class="form-inline index-search" role="search" onsubmit="return Dwr.FsearchExec(' + nbSearchForms + ')">';
 	txt_form += '<div class="input-group">';
 	txt_form += '<input id="dwr-search-' + nbSearchForms + '-txt" type="text" class="form-control dwr-search" placeholder="' + _('Search Person') + '">';
 	txt_form += '<div class="input-group-btn">';

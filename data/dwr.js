@@ -3924,7 +3924,7 @@ function HomePage()
 	html += '<h1>' + TITLE + '</h1>';
 	html += '<p class="lead">Search & select a family member to view their tree branch.</p>';
 	html += '</div>';
-	html += '<div class="col-md-6"><ul class="list-group index-list">';
+	html += '<div class="col-md-4"><ul class="list-group index-list">';
 	var tables = [
 		["N", "surnames.html"],
         ["I", "persons.html"],
@@ -3946,7 +3946,7 @@ function HomePage()
 		sep = '<br>';
 	}
 	html += '<br> </ul>' + Dwr.embedSearchText() + '<p></div>';
-	html += '<div clacss="col-md-6"><img src="https://raw.githubusercontent.com/bjpcorp/Dunne-Phelan-Family-Tree/main/heraldry-dunne-phelan.png"></div>'
+	html += '<div class="col-md-8"><img class="img-fluid center-block" src="https://raw.githubusercontent.com/bjpcorp/Dunne-Phelan-Family-Tree/main/heraldry-dunne-phelan.png"></div>'
 	return html;
 }
 
