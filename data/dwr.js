@@ -3949,8 +3949,8 @@ function HomePage()
 	}
 	html += '</ul>' + Dwr.embedSearchText() + '</div>';
 	//========== index.html images
-	html += '<div class="col-xs-6 col-sm-4"><a href="https://bjpcorp.github.io/Dunne-Phelan-Family-Tree/search.html?p=index.html&stxt=dunne" ><img class="img-fluid" src="https://raw.githubusercontent.com/bjpcorp/Dunne-Phelan-Family-Tree/main/dunne-shield.svg"></a></div>';
-	html += '<div class="col-xs-6 col-sm-4"><a href="https://bjpcorp.github.io/Dunne-Phelan-Family-Tree/search.html?p=index.html&stxt=phelan"><img class="img-fluid" src="https://raw.githubusercontent.com/bjpcorp/Dunne-Phelan-Family-Tree/main/phelan-shield.svg"></a></div>';
+	html += '<div class="col-xs-12 col-sm-4"><a href="https://bjpcorp.github.io/Dunne-Phelan-Family-Tree/search.html?p=index.html&stxt=dunne" ><img class="img-fluid" src="https://raw.githubusercontent.com/bjpcorp/Dunne-Phelan-Family-Tree/main/dunne-shield.svg"></a></div>';
+	html += '<div class="col-xs-12 col-sm-4"><a href="https://bjpcorp.github.io/Dunne-Phelan-Family-Tree/search.html?p=index.html&stxt=phelan"><img class="img-fluid" src="https://raw.githubusercontent.com/bjpcorp/Dunne-Phelan-Family-Tree/main/phelan-shield.svg"></a></div>';
 	html += '</div>';
 	return html;
 }
