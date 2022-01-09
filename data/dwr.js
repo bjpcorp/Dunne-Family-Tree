@@ -3855,7 +3855,7 @@ function SearchObjects()
 	}
 	else
 	{
-		html = ('<p>' + _('Several matches.<br>Precise your search or choose in the lists below.') + '</p>') + html;
+		html = ('<p>' + _('Several matches.<br>Refine your search or choose from the lists below.') + '</p>') + html;
 	}
 	return(html);
 }
@@ -3922,7 +3922,7 @@ function HomePage()
 	var html = '';
 	html += '<div class="jumbotron">';
 	html += '<h1>' + TITLE + '</h1>';
-	html += '<p class="lead">Search & select a family member to view their tree branch.</p>';
+	html += '<p class="lead">Select a family member & view their tree branch.</p>';
 	html += '</div>';
 	html += '<div class="col-md-4"><ul class="list-group index-list">';
 	var tables = [
