@@ -741,8 +741,8 @@ function SvgSetStyle(p, text, x_elt, lev)
 		if (I(elt[SVGELT_IDX], 'gender') == 'M') g = 'male';
 		if (I(elt[SVGELT_IDX], 'gender') == 'F') g = 'female';
 		var d = 'alive';
-		if (I(elt[SVGELT_IDX], 'death_date') != "") d = 'death';
-		fill = GRAMPS_PREFERENCES['color-gender-' + g + '-' + d];
+		if (I(elt[SVGELT_IDX], 'death_date') != "") d = 'dead';
+		fill = GRAMPS_PREFERENCES[g + '-' + d];
 	}
 	if (typeof(lev) !== 'undefined' && Dwr.search.SvgBackground == SVG_TREE_BACKGROUND_GENERATION)
 	{
