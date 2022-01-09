@@ -3924,7 +3924,7 @@ function HomePage()
 	html += '<h1>' + TITLE + '</h1>';
 	html += '<p class="lead">Select a family member to view info & tree branches.</p>';
 	html += '</div>';
-	html += '<div class="row"><div class="col-xs-6 col-md-4">';
+	html += '<div class="row"><div class="col-xs-12 col-sm-12 col-md-6">';
 	html += '<ul class="list-group index-list">';
 	var tables = [
 		["N", "surnames.html"],
@@ -3949,9 +3949,9 @@ function HomePage()
 	}
 	html += '</ul>' + Dwr.embedSearchText() + '</div>';
 	//========== index.html images
-	html += '<div class="col-xs-6 col-md-4"><a href="https://bjpcorp.github.io/Dunne-Phelan-Family-Tree/search.html?p=index.html&stxt=dunne" ><img class="img-fluid" src="https://raw.githubusercontent.com/bjpcorp/Dunne-Phelan-Family-Tree/main/dunne-shield.svg"></a></div>';
-	html += '<div class="col-xs-6 col-md-4"><a href="https://bjpcorp.github.io/Dunne-Phelan-Family-Tree/search.html?p=index.html&stxt=phelan"><img class="img-fluid" src="https://raw.githubusercontent.com/bjpcorp/Dunne-Phelan-Family-Tree/main/phelan-shield.svg"></a></div>';
-	html += '</div></div>';
+	html += '<div class="col-xs-6 col-sm-4"><a href="https://bjpcorp.github.io/Dunne-Phelan-Family-Tree/search.html?p=index.html&stxt=dunne" ><img class="img-fluid" src="https://raw.githubusercontent.com/bjpcorp/Dunne-Phelan-Family-Tree/main/dunne-shield.svg"></a></div>';
+	html += '<div class="col-xs-6 col-sm-4"><a href="https://bjpcorp.github.io/Dunne-Phelan-Family-Tree/search.html?p=index.html&stxt=phelan"><img class="img-fluid" src="https://raw.githubusercontent.com/bjpcorp/Dunne-Phelan-Family-Tree/main/phelan-shield.svg"></a></div>';
+	html += '</div>';
 	return html;
 }
 
