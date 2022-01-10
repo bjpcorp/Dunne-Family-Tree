@@ -640,7 +640,25 @@ I_addrs_0 = [
 [],
 [],
 [],
-[],
+[
+{
+"cita": [],
+"date": "1911",
+"date_sdn": 2419038,
+"location": [
+"House 2 Baunreagh",
+"Kilmaganny",
+"",
+"",
+"Kilkenny",
+"",
+"",
+"Ireland",
+""
+],
+"note": ""
+}
+],
 [],
 [],
 [],
@@ -684,7 +702,25 @@ I_addrs_0 = [
 }
 ],
 [],
-[],
+[
+{
+"cita": [],
+"date": "1901",
+"date_sdn": 2415386,
+"location": [
+"House 2 Baunreagh",
+"Kilmaganny",
+"",
+"",
+"Kilkenny",
+"",
+"",
+"Ireland",
+""
+],
+"note": ""
+}
+],
 [],
 [],
 [],
@@ -863,7 +899,25 @@ I_addrs_0 = [
 }
 ],
 [],
-[],
+[
+{
+"cita": [],
+"date": "31 March 1901",
+"date_sdn": 2415475,
+"location": [
+"House 7 Threecastles",
+"Odagh",
+"",
+"",
+"Kilkenny",
+"",
+"",
+"Ireland",
+""
+],
+"note": ""
+}
+],
 [
 {
 "cita": [],
@@ -884,7 +938,25 @@ I_addrs_0 = [
 }
 ],
 [],
-[],
+[
+{
+"cita": [],
+"date": "31 March 1901",
+"date_sdn": 2415475,
+"location": [
+"House 7 Threecastles",
+"Odagh",
+"",
+"",
+"Kilkenny",
+"",
+"",
+"Ireland",
+""
+],
+"note": ""
+}
+],
 [],
 [],
 [],

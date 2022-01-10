@@ -695,6 +695,7 @@ function BuildMenu()
 	$('body').prepend(txt_menu);
 }
 
+
 function embedSearchText()
 {
 	// Build the embedded search input form

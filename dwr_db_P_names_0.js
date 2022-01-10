@@ -243,6 +243,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Keatingstown"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Kilcronan"
 }
 ],
@@ -321,6 +328,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Rossenarra"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "St Canice's"
 }
 ],
 [

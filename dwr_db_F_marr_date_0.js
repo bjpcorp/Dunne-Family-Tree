@@ -36,7 +36,7 @@ F_marr_date_0 = [
 "",
 "",
 "",
-"",
+"19 October 1916",
 "",
 "",
 "",
@@ -102,7 +102,7 @@ F_marr_date_0 = [
 "",
 "",
 "19 February 1887",
-"",
+"6 February 1917",
 ""
 ]
 Dwr.ScriptLoaded('dwr_db_F_marr_date_0.js');

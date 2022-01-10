@@ -36,7 +36,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 52,
+"place": 54,
 "text": "",
 "type": "Marriage"
 }
@@ -92,7 +92,21 @@ F_events_0 = [
 [],
 [],
 [],
-[],
+[
+{
+"cita": [],
+"date": "19 October 1916",
+"date_sdn": 2421156,
+"descr": "",
+"gid": "E0242",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 49,
+"text": "",
+"type": "Marriage"
+}
+],
 [],
 [],
 [],
@@ -113,7 +127,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 47,
+"place": 49,
 "text": "",
 "type": "Marriage"
 }
@@ -136,7 +150,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 46,
+"place": 48,
 "text": "",
 "type": "Marriage"
 }
@@ -151,7 +165,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 53,
+"place": 55,
 "text": "",
 "type": "Marriage"
 }
@@ -240,7 +254,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 56,
+"place": 58,
 "text": "",
 "type": "Marriage"
 }
@@ -279,12 +293,26 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
+"place": 49,
+"text": "",
+"type": "Marriage"
+}
+],
+[
+{
+"cita": [],
+"date": "6 February 1917",
+"date_sdn": 2421266,
+"descr": "",
+"gid": "E0267",
+"media": [],
+"part_family": [],
+"part_person": [],
 "place": 47,
 "text": "",
 "type": "Marriage"
 }
 ],
-[],
 []
 ]
 Dwr.ScriptLoaded('dwr_db_F_events_0.js');

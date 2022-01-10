@@ -36,7 +36,7 @@ F_marr_place_0 = [
 "",
 "",
 "",
-"",
+"Threecastles Parish, Threecastles, Odagh, Freshford, Kilkenny, Leinster, Ireland",
 "",
 "",
 "",
@@ -102,7 +102,7 @@ F_marr_place_0 = [
 "",
 "",
 "Threecastles Parish, Threecastles, Odagh, Freshford, Kilkenny, Leinster, Ireland",
-"",
+"St Canice's, Kilkenny, Leinster, Ireland",
 ""
 ]
 Dwr.ScriptLoaded('dwr_db_F_marr_place_0.js');
