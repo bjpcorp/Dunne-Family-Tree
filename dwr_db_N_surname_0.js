@@ -27,6 +27,7 @@ N_surname_0 = [
 "Dunne",
 "Fanning",
 "Fennelly",
+"Fitzpatrick",
 "Gibson",
 "Glennon",
 "Grier",

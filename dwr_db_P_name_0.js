@@ -9,8 +9,7 @@ P_name_0 = [
 "Ballymullen, Abbeyleix, Laois, Leinster, Ireland",
 "Ballyspellan, Johnstown, Galmoy, Kilkenny, Leinster, Ireland",
 "Barna, Tubbrid, Kilkenny, Leinster, Ireland",
-"Baunreagh, Callan, Kilkenny, Leinster, Ireland",
-"Callan, Kilkenny, Leinster, Ireland",
+"Chapel Street, Ballinakill, Laois, Leinster, Ireland",
 "Clomantagh, Kilkenny, Leinster, Ireland",
 "Cloonboo More, Galway, Connaught, Ireland",
 "Connaught, Ireland",
@@ -24,7 +23,6 @@ P_name_0 = [
 "House 1, Kilcronan, Ballinakill, Laois, Leinster, Ireland",
 "House 10",
 "House 13, Threecastles, Odagh, Freshford, Kilkenny, Leinster, Ireland",
-"House 2, Baunreagh, Callan, Kilkenny, Leinster, Ireland",
 "House 2, Threecastles, Odagh, Freshford, Kilkenny, Leinster, Ireland",
 "House 2, Tubbrid Upper, Clomantagh, Kilkenny, Leinster, Ireland",
 "House 6, Raggettstown, Ballymullen, Abbeyleix, Laois, Leinster, Ireland",
@@ -39,7 +37,6 @@ P_name_0 = [
 "Kilcronan, Ballinakill, Laois, Leinster, Ireland",
 "Kilkenny, Leinster, Ireland",
 "Killoshulan, Balleen, Crannagh, Kilkenny, Leinster, Ireland",
-"Kilmoganny, Kilkenny, Leinster, Ireland",
 "Kyle, Freshford, Kilkenny, Leinster, Ireland",
 "Laois, Leinster, Ireland",
 "Leinster, Ireland",
@@ -47,7 +44,6 @@ P_name_0 = [
 "Munster, Ireland",
 "Odagh, Freshford, Kilkenny, Leinster, Ireland",
 "Raggettstown, Ballymullen, Abbeyleix, Laois, Leinster, Ireland",
-"Rossenarra, Kilmoganny, Kilkenny, Leinster, Ireland",
 "St Canice's, Kilkenny, Leinster, Ireland",
 "Templemore Thurles, Tipperary, Munster, Ireland",
 "Threecastles Parish, Threecastles, Odagh, Freshford, Kilkenny, Leinster, Ireland",
@@ -58,7 +54,6 @@ P_name_0 = [
 "Tullaroan, Kilkenny, Leinster, Ireland",
 "Urlingford Catholic Parish, Urlingford, Galmoy, Kilkenny, Leinster, Ireland",
 "Urlingford, Galmoy, Kilkenny, Leinster, Ireland",
-"Watercastle, Durrow, Laois, Leinster, Ireland",
-"Windgap Chapel, Kilmoganny, Kilkenny, Leinster, Ireland"
+"Watercastle, Durrow, Laois, Leinster, Ireland"
 ]
 Dwr.ScriptLoaded('dwr_db_P_name_0.js');

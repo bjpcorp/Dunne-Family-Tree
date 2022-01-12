@@ -9,8 +9,7 @@ P_change_time_0 = [
 "4 October 2020 7:40:10 PM",
 "30 September 2020 10:33:16 PM",
 "5 January 2022 12:58:28 PM",
-"1 October 2020 10:21:38 PM",
-"5 January 2022 1:01:00 PM",
+"5 January 2022 1:02:24 PM",
 "5 January 2022 1:02:54 PM",
 "8 October 2020 9:59:08 PM",
 "5 January 2022 1:05:07 PM",
@@ -24,7 +23,6 @@ P_change_time_0 = [
 "7 October 2020 12:15:04 AM",
 "2 January 2022 2:04:44 AM",
 "2 January 2022 12:50:46 AM",
-"5 October 2020 12:35:46 AM",
 "1 October 2020 11:04:43 AM",
 "1 October 2020 11:40:58 AM",
 "7 October 2020 2:59:28 AM",
@@ -39,7 +37,6 @@ P_change_time_0 = [
 "4 October 2020 9:10:46 PM",
 "5 January 2022 1:12:45 PM",
 "5 January 2022 1:13:48 PM",
-"5 January 2022 1:14:31 PM",
 "5 January 2022 1:17:22 PM",
 "5 January 2022 1:18:09 PM",
 "5 January 2022 1:18:40 PM",
@@ -47,7 +44,6 @@ P_change_time_0 = [
 "5 January 2022 1:20:10 PM",
 "1 October 2020 10:49:02 AM",
 "4 October 2020 7:35:10 PM",
-"4 October 2020 11:39:30 PM",
 "1 October 2020 4:57:37 PM",
 "1 October 2020 5:06:37 PM",
 "5 January 2022 1:21:26 PM",
@@ -58,7 +54,6 @@ P_change_time_0 = [
 "4 January 2022 5:54:06 PM",
 "5 January 2022 1:24:24 PM",
 "30 September 2020 10:07:57 PM",
-"30 December 2021 12:42:59 PM",
-"5 October 2020 12:26:00 AM"
+"30 December 2021 12:42:59 PM"
 ]
 Dwr.ScriptLoaded('dwr_db_P_change_time_0.js');

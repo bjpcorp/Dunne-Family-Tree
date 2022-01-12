@@ -9,7 +9,6 @@ P_letter_0 = [
 "B",
 "B",
 "B",
-"B",
 "C",
 "C",
 "C",
@@ -31,11 +30,9 @@ P_letter_0 = [
 "H",
 "H",
 "H",
-"H",
 "I",
 "I",
 "J",
-"K",
 "K",
 "K",
 "K",
@@ -47,7 +44,6 @@ P_letter_0 = [
 "M",
 "O",
 "R",
-"R",
 "S",
 "T",
 "T",
@@ -58,7 +54,6 @@ P_letter_0 = [
 "T",
 "U",
 "U",
-"W",
 "W"
 ]
 Dwr.ScriptLoaded('dwr_db_P_letter_0.js');

@@ -1,6 +1,7 @@
 // Gramps - a GTK+/GNOME based genealogy program
 //
 // Copyright (C) 2014 Pierre Bélissent
+// Copyright (C) 2022 Serge Noiraud
 // See also https://github.com/andrewseddon/raphael-zpd/blob/master/raphael-zpd.js for parts of code from Raphael-ZPD
 //
 // This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.

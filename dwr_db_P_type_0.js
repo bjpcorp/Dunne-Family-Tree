@@ -9,8 +9,7 @@ P_type_0 = [
 "Neighbourhood",
 "Neighbourhood",
 "Locality",
-"Town",
-"Barony",
+"Street",
 "Barony",
 "Town",
 "Province",
@@ -21,7 +20,6 @@ P_type_0 = [
 "Barony",
 "County",
 "Parish",
-"Building",
 "Building",
 "Building",
 "Building",
@@ -39,7 +37,6 @@ P_type_0 = [
 "Neighbourhood",
 "County",
 "Town",
-"Village",
 "Locality",
 "County",
 "Province",
@@ -47,7 +44,6 @@ P_type_0 = [
 "Province",
 "Town",
 "Neighbourhood",
-"Town",
 "Parish",
 "Parish",
 "Parish",
@@ -58,7 +54,6 @@ P_type_0 = [
 "Village",
 "Parish",
 "Town",
-"Farm",
-"Parish"
+"Farm"
 ]
 Dwr.ScriptLoaded('dwr_db_P_type_0.js');

@@ -3032,6 +3032,58 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Brigid Fitzpatrick",
+"given": "Brigid",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Fitzpatrick"
+],
+"title": "",
+"type": "Birth Name"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Dunne",
+"given": "",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Dunne"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Patrick Fitzpatrick",
+"given": "Patrick",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Fitzpatrick"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "John Gibson",
 "given": "John",
 "nick": "",
@@ -4473,24 +4525,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Catherine Phelan",
-"given": "Catherine",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Phelan"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Christy Phelan",
 "given": "Christy",
 "nick": "",
@@ -4600,62 +4634,8 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "James Phelan",
-"given": "James",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Phelan"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Jessie Phelan",
 "given": "Jessie",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Phelan"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Johanna Phelan",
-"given": "Johanna",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Phelan"
-],
-"title": "",
-"type": "Married Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "John Phelan",
-"given": "John",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -4854,6 +4834,24 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Peter P Phelan",
 "given": "Peter P",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Phelan"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Pierce Phelan",
+"given": "Pierce",
 "nick": "",
 "note": "",
 "suffix": "",

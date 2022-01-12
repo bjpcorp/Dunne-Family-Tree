@@ -21,7 +21,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 19,
+"place": 18,
 "text": "",
 "type": "Marriage"
 }
@@ -36,7 +36,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 54,
+"place": 50,
 "text": "",
 "type": "Marriage"
 }
@@ -102,7 +102,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 49,
+"place": 45,
 "text": "",
 "type": "Marriage"
 }
@@ -127,11 +127,12 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 49,
+"place": 45,
 "text": "",
 "type": "Marriage"
 }
 ],
+[],
 [],
 [],
 [],
@@ -150,7 +151,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 48,
+"place": 44,
 "text": "",
 "type": "Marriage"
 }
@@ -165,7 +166,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 55,
+"place": 51,
 "text": "",
 "type": "Marriage"
 }
@@ -180,7 +181,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 19,
+"place": 18,
 "text": "",
 "type": "Marriage"
 }
@@ -243,18 +244,17 @@ F_events_0 = [
 [],
 [],
 [],
-[],
 [
 {
 "cita": [],
-"date": "2 February 1903",
-"date_sdn": 2416148,
+"date": "18 November 1919",
+"date_sdn": 2422281,
 "descr": "",
 "gid": "E0345",
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 58,
+"place": 4,
 "text": "",
 "type": "Marriage"
 }
@@ -293,7 +293,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 49,
+"place": 45,
 "text": "",
 "type": "Marriage"
 }
@@ -308,7 +308,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 47,
+"place": 43,
 "text": "",
 "type": "Marriage"
 }

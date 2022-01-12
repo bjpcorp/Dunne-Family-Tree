@@ -447,6 +447,8 @@ I_addrs_0 = [
 [],
 [],
 [],
+[],
+[],
 [
 {
 "cita": [],
@@ -640,25 +642,18 @@ I_addrs_0 = [
 [],
 [],
 [],
-[
-{
-"cita": [],
-"date": "1911",
-"date_sdn": 2419038,
-"location": [
-"House 2 Baunreagh",
-"Kilmaganny",
-"",
-"",
-"Kilkenny",
-"",
-"",
-"Ireland",
-""
-],
-"note": ""
-}
-],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
 [],
 [],
 [],
@@ -701,39 +696,25 @@ I_addrs_0 = [
 "note": ""
 }
 ],
-[],
 [
 {
 "cita": [],
-"date": "1901",
-"date_sdn": 2415386,
+"date": "",
+"date_sdn": 0,
 "location": [
-"House 2 Baunreagh",
-"Kilmaganny",
+"",
+"Ballinakill",
 "",
 "",
-"Kilkenny",
+"Laois",
 "",
 "",
-"Ireland",
+"",
 ""
 ],
 "note": ""
 }
 ],
-[],
-[],
-[],
-[],
-[],
-[],
-[],
-[],
-[],
-[],
-[],
-[],
-[],
 [],
 [],
 [],

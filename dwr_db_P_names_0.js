@@ -61,14 +61,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Baunreagh"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"name": "Callan"
+"name": "Chapel Street"
 }
 ],
 [
@@ -180,13 +173,6 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "House 2"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
 "name": "House 6"
 }
 ],
@@ -271,13 +257,6 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Kilmoganny"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
 "name": "Kyle"
 }
 ],
@@ -321,13 +300,6 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Raggettstown"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"name": "Rossenarra"
 }
 ],
 [
@@ -405,13 +377,6 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Watercastle"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"name": "Windgap Chapel"
 }
 ]
 ]
